@@ -1,0 +1,10879 @@
+{
+  "Abekobe2DMoveLift.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "AbekobeCircleMoveLift.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "AbekobeIntroducePlanet.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "AirBubble.arc": {
+    ".bck": 1,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "AirBubbleGenerator.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "AncientCage.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "AquariumPlanetA.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "AquariumPlanetAIndirect.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "AquariumPlanetB.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "AquariumPlanetBIndirect.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "AquariumRailMoveObj.arc": {
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ArrowBoard.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ArrowSwitch.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btk": 2,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "AssemblyBlockPartsA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "AssemblyBlockPartsB.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "AsteroidB.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "AsteroidBlockPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "AsteroidBLow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "AsteroidC.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "AsteroidCLow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "AstroChildRoom.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "AstroRoomLibrary.arc": {
+    ".bdl": 1,
+    ".brk": 2,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "AttackRock.arc": {
+    ".bck": 13,
+    ".bcsv": 8,
+    ".bdl": 1,
+    ".brk": 8,
+    ".bva": 8,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "AttackRockBreak.arc": {
+    ".bck": 1,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "AttackRockFallBreak.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "AttackRockHill.arc": {
+    ".bck": 2,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BackgroundComet.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "BakuBaku.arc": {
+    ".banmt": 1,
+    ".bck": 3,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".btp": 2,
+    ".txt": 1
+  },
+  "BakubakuCircleConveyor.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BakuBakuClipStep.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "Balloonfish.arc": {
+    ".bas": 1,
+    ".bck": 3,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BalloonFruit.arc": {
+    ".banmt": 1,
+    ".bck": 9,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BallOpenerSlider.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BallOpenerTamakoro.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BarrelCloudActionPlanet.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BarrelCloudActionRotateLiftA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BarrelColonyDoor.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BarrelColonyInnerPlanet.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BarrelColonyInnerPlanetLow.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BarrelColonyLift.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BarrelColonyOuterPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BarrelColonyOuterPlanetLow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BarrelElectricRailColonyPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BarrelElectricRailMoveLift.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BarrelElectricRailRotateLift.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BarrelGravityAir.arc": {
+    ".bdl": 1,
+    ".brk": 2,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "BasaBasa.arc": {
+    ".banmt": 1,
+    ".bas": 6,
+    ".bck": 10,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BasaBasaHang.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "Battan.arc": {
+    ".banmt": 1,
+    ".bck": 13,
+    ".bcsv": 8,
+    ".bdl": 1,
+    ".bva": 13,
+    ".kcl": 5,
+    ".pa": 5,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BattanBreak.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BattanBreakStay.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".bva": 1,
+    ".txt": 1
+  },
+  "BattanKing.arc": {
+    ".banmt": 1,
+    ".bck": 24,
+    ".bcsv": 10,
+    ".bdl": 1,
+    ".brk": 2,
+    ".bva": 22,
+    ".canm": 3,
+    ".kcl": 7,
+    ".pa": 7,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BattanKingBreak.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BattanRoadPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BattleAsteroidCloud.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "BattleAsteroidStartPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BattleGrapyonPlanet.arc": {
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".brk": 1,
+    ".bva": 2,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BattleGrapyonPlanetParts.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BattleIceMerameraPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BattleKabokuriPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BattleKaninaPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BattleMerameraPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BattleMogucchiPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BattleShipWarpHole.arc": {
+    ".bck": 2,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "BattleUnizoLandPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BattleWanwanSearchPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BattleWaterTeresaPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BattleWaterTeresaPlanetIndirect.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "BeeEater.arc": {
+    ".banmt": 1,
+    ".bck": 6,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BeeEaterBody.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BeeFlowerHover.arc": {
+    ".bck": 4,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BeeFlowerHoverLow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BeeJumpBall.arc": {
+    ".bck": 4,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BeeJumpBallB.arc": {
+    ".bck": 4,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BeeJumpBallC.arc": {
+    ".bck": 4,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BeeJumpBallD.arc": {
+    ".bck": 4,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BeeLuigi.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 2
+  },
+  "BeeMario.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".btp": 1,
+    ".txt": 2
+  },
+  "BeeMarioWing.arc": {
+    ".bck": 4,
+    ".bdl": 1,
+    ".btk": 1,
+    ".bva": 4,
+    ".txt": 1
+  },
+  "BegomanBaby.arc": {
+    ".banmt": 1,
+    ".bck": 13,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BegomanBrokenPiece.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BegomanLauncher.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BegomanSpike.arc": {
+    ".banmt": 1,
+    ".bck": 14,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BegomanSpikeHead.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BegomanSpring.arc": {
+    ".banmt": 1,
+    ".bas": 1,
+    ".bck": 16,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BegomanSpringHead.arc": {
+    ".bck": 5,
+    ".bdl": 1,
+    ".brk": 2,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BellyDragon.arc": {
+    ".banmt": 1,
+    ".bck": 15,
+    ".bcsv": 13,
+    ".bdl": 1,
+    ".brk": 2,
+    ".bva": 15,
+    ".canm": 3,
+    ".txt": 1
+  },
+  "BellyDragonBodyHill.arc": {
+    ".bck": 3,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BellyDragonDemoPath.arc": {
+    ".bck": 3,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BellyDragonFireGround.arc": {
+    ".bck": 3,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "BellyDragonFireGroundBloom.arc": {
+    ".bck": 2,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BellyDragonHeadHill.arc": {
+    ".bck": 1,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BellyDragonHeadHillBreak.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BellyDragonHoleBreak.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BellyDragonJawHill.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BellyDragonLv1Planet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BellyDragonLv1PlanetLow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BellyDragonLv2.arc": {
+    ".banmt": 1,
+    ".bck": 15,
+    ".bcsv": 13,
+    ".bdl": 1,
+    ".brk": 3,
+    ".bva": 15,
+    ".canm": 3,
+    ".txt": 1
+  },
+  "BellyDragonLv2Planet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BellyDragonMeteor.arc": {
+    ".bck": 1,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "BellyDragonSensor.arc": {
+    ".bcsv": 2,
+    ".txt": 1
+  },
+  "BellyDragonShadow.arc": {
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BellyDragonWeakPoint.arc": {
+    ".bck": 2,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "BendSwanpPlanet.arc": {
+    ".bck": 5,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".brk": 5,
+    ".btk": 1,
+    ".kcl": 3,
+    ".pa": 3,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BendSwanpStepA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BendSwanpStepB.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BendSwanpStepC.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BeyondBlueAir.arc": {
+    ".bdl": 1,
+    ".brk": 2,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "BeyondDimensionAir.arc": {
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "BeyondGalaxySky.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "BeyondHellValleySky.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "BeyondHorizonSky.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "BeyondOrbitSky.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "BeyondPhantomSky.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "BeyondSandNightSky.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "BeyondSandSky.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "BeyondSummerSky.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "BeyondTitleSky.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "BigBirikyu.arc": {
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".csv~": 1,
+    ".txt": 1
+  },
+  "BigCake.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BigCloudStep.arc": {
+    ".banmt": 1,
+    ".bck": 2,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".bva": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BigCloudStepMountainTop.arc": {
+    ".banmt": 1,
+    ".bck": 2,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".bva": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BigCoinBlockStep.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BigEarthenPipeExtend.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BigEarthenPipeGround.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BigFallSky.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "BigFanCloud.arc": {
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BigFanNoLeg.arc": {
+    ".bck": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BigFanWind.arc": {
+    ".bck": 2,
+    ".bdl": 1,
+    ".brk": 2,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "BigHanachanPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BigNokonokoLandPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BigPunchBoxStep.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BigRelayPlanetA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BigRelayPlanetALow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BigRepeatWarpLift.arc": {
+    ".bck": 3,
+    ".bdl": 1,
+    ".brk": 2,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BigRotateCoinWall.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BigSandBirdGoalStep.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BigSandBirdRoutePlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BigSandBirdStartStep.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BigSignBoard.arc": {
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BigStrongBlockStep.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BigTreePlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BigTreePlanetBloom.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BigTreePlanetBranchA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BigTreePlanetBranchB.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BigYellowChipStep.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "Birikyu.arc": {
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BlackHole.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "BlackHoleRange.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "Blue2DSky.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "BlueStarCupsulePlanet.arc": {
+    ".banmt": 1,
+    ".bck": 2,
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BombBird.arc": {
+    ".banmt": 1,
+    ".bas": 6,
+    ".bck": 11,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".btk": 2,
+    ".btp": 3,
+    ".dvmat": 1,
+    ".txt": 1
+  },
+  "BombBirdBomb.arc": {
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "BombHei.arc": {
+    ".banmt": 1,
+    ".bas": 3,
+    ".bck": 13,
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "BombHeiLauncher.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BombHeiLeadingInnerPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BombHeiLeadingOuterPlanet.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BombHeiRed.arc": {
+    ".banmt": 1,
+    ".bck": 7,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BombTeresa.arc": {
+    ".banmt": 1,
+    ".bck": 10,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "BombTimeAttackPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BombZoneGravityDisplayPanel.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "BoneLuigi.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BoneMario.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BoomerangBros.arc": {
+    ".banmt": 1,
+    ".bck": 15,
+    ".bcsv": 8,
+    ".bdl": 1,
+    ".btp": 15,
+    ".txt": 1
+  },
+  "BoomerangBrosBoomerang.arc": {
+    ".bck": 2,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BossBussun.arc": {
+    ".anmt___": 1,
+    ".banmt": 1,
+    ".bck": 20,
+    ".bcsv": 11,
+    ".bdl": 1,
+    ".brk": 3,
+    ".btp": 2,
+    ".bva": 9,
+    ".canm": 2,
+    ".txt": 1
+  },
+  "BossBussunPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BossBussunPlanetLow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BossBussunShot.arc": {
+    ".banmt": 1,
+    ".bck": 4,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BossJugem.arc": {
+    ".banmt": 1,
+    ".bck": 33,
+    ".bcsv": 10,
+    ".bdl": 1,
+    ".brk": 3,
+    ".btp": 27,
+    ".canm": 3,
+    ".dtp": 1,
+    ".txt": 2
+  },
+  "BossJugemCloud.arc": {
+    ".banmt": 1,
+    ".bck": 27,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".brk": 6,
+    ".btp": 27,
+    ".txt": 1
+  },
+  "BossJugemPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BossJugemPlanetCloud.arc": {
+    ".banmt": 1,
+    ".bck": 4,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "BossKameckFireBall.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "BossStinkBug.arc": {
+    ".banmt": 1,
+    ".bas": 14,
+    ".bck": 27,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".brk": 2,
+    ".kcl": 3,
+    ".pa": 3,
+    ".prj": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BossStinkBugBomb.arc": {
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "BossStinkBugBombLauncher.arc": {
+    ".banmt": 1,
+    ".bck": 4,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BossStinkBugDemo.arc": {
+    ".bck": 4,
+    ".bdl": 1,
+    ".canm": 4,
+    ".txt": 1
+  },
+  "BossStinkBugWing.arc": {
+    ".bck": 7,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btk": 7,
+    ".bva": 7,
+    ".txt": 1
+  },
+  "BothSideDrillTowerPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BothSideLift.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BothSideLiftPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BothSideLiftPlanetLow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BothSideMazeRoomDrillPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BothSideMazeRoomPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BothSideMazeRoomSlideWall.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BothSideWanwanPlanet.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BothSideWanwanPlanetLow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BothSideWanwanPlanetMiddle.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BreakableCage.arc": {
+    ".bdl": 1,
+    ".btk": 2,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BreakableCageBreak.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BreakableCageL.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "BrickDust.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "BrightGalaxySky.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "BuildingBlocksDust.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "Bussun.arc": {
+    ".banmt": 1,
+    ".bck": 7,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".btp": 5,
+    ".txt": 1
+  },
+  "Butterfly.arc": {
+    ".banmt": 1,
+    ".bck": 2,
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "Buzz.arc": {
+    ".banmt": 1,
+    ".bck": 5,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".btp": 2,
+    ".txt": 1
+  },
+  "Cactus.arc": {
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CandlestandIceVolcano.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CannonRelayPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CapsuleCage.arc": {
+    ".banmt": 1,
+    ".bck": 2,
+    ".bdl": 1,
+    ".btk": 2,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CapsuleLavaLiftA.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CapsuleLavaLiftB.arc": {
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CapsuleLavaPlanetA.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CapsuleLavaPlanetABloom.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "CapsuleLavaPlanetB.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CapsuleLavaPlanetBBloom.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "Caretaker.arc": {
+    ".banmt": 1,
+    ".bas": 7,
+    ".bck": 22,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "CaretakerBroom.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "CaretakerHunter.arc": {
+    ".banmt": 1,
+    ".bas": 1,
+    ".bck": 9,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "CaretakerLow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "CaretakerMiddle.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "CaveInPartsBig.arc": {
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "CaveInPartsMiddle.arc": {
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "CaveInPartsSmall.arc": {
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "ChallengeGliderStartPlanet.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ChangeRoom.arc": {
+    ".bck": 4,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".brk": 2,
+    ".btk": 2,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ChaosGravityStartPlanet.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "Chorobon.arc": {
+    ".banmt": 1,
+    ".bck": 6,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "CircleShell.arc": {
+    ".banmt": 1,
+    ".bck": 2,
+    ".bdl": 1,
+    ".bva": 1,
+    ".txt": 1
+  },
+  "ClipAppearBattleShip.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ClipCutLiftA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ClipCutLiftB.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ClipCutLiftC.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ClipCutRoadA.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ClipCutRoadB.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ClipCutRoadC.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ClipCutRoadD.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ClipCutRoadE.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ClipCutRoadPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ClipCutRoadPlanetLow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "CloudAcrossValleyCliffPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CloudAcrossValleyPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CloudClimbMountainPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CloudLuigi.arc": {
+    ".bdl": 1,
+    ".btp": 1,
+    ".txt": 1
+  },
+  "CloudLuigiCap.arc": {
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "CloudMario.arc": {
+    ".bdl": 1,
+    ".btp": 1,
+    ".txt": 1
+  },
+  "CloudMarioCap.arc": {
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "CloudSeaA.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CloudSky.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "CloudSliderObstacle.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CloudStep.arc": {
+    ".banmt": 1,
+    ".bck": 2,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".bva": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CloudStepShadow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "CloudTunnel.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "CloudValleyTowerPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CloudWind2DPlanet.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CloudWind2DPlanetLow.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "CloudWindmill.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CocoNut.arc": {
+    ".banmt": 1,
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "CoconutTreeLeaf.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "Coin.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "CoinBlock.arc": {
+    ".bck": 3,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".brk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CoinBlock2D.arc": {
+    ".bck": 3,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".brk": 2,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CoinInsidePearPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CoinInsidePearPlanetCover.arc": {
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "CoinRoomBrickBrownPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CoinRoomBrickFlatBrownPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CoinRoomWoodFlatBrownPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CollapsePlane.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ConstructionLight.arc": {
+    ".bck": 1,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".brk": 1,
+    ".bva": 2,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "Creeper.arc": {
+    ".bti": 1,
+    ".txt": 1
+  },
+  "CreeperFlower.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "CreeperLeaf.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "CrescentSeesawPlanet.arc": {
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CrystalCage2D.arc": {
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".bva": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CrystalCageL.arc": {
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".bva": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CrystalCageLBreak.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "CrystalCageM.arc": {
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".bva": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CrystalCageOpa.arc": {
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".bva": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CrystalCageOpaBreak.arc": {
+    ".bck": 1,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "CrystalCageOpaLL.arc": {
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CrystalCageOpaLLBreak.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "CrystalCageS.arc": {
+    ".bcsv": 13,
+    ".bdl": 1,
+    ".bva": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CrystalCageSBreak.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "CylinderLiftMovePlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CylinderPushDiskPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CylinderRotateLift.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "CymbalsStep.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DanceFlower.arc": {
+    ".banmt": 1,
+    ".bck": 10,
+    ".bcsv": 8,
+    ".bdl": 1,
+    ".bva": 10,
+    ".txt": 1
+  },
+  "DandelionHillPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DangerSignBoard.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DarknessRoomDoorA.arc": {
+    ".bas": 1,
+    ".bck": 1,
+    ".bdl": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DarkSpaceStormSky.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "DashFruit.arc": {
+    ".banmt": 1,
+    ".bck": 8,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "DashFruitStem.arc": {
+    ".bck": 2,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "DashRing.arc": {
+    ".bck": 4,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".brk": 4,
+    ".txt": 1
+  },
+  "DashRingWallLeftA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DashRingWallRightA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DashYoshiBridgeSlopeCometPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DashYoshiBridgeSlopePlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DashYoshiMoveClimbCometPartsA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DashYoshiMoveClimbCometPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DashYoshiMoveClimbPartsA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DashYoshiMoveClimbPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DashYoshiMoveClimbPlanetLow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "DashYoshiObstaclePole.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DashYoshiStep.arc": {
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DashYoshiTimerBridgeCometPartsA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DashYoshiTimerBridgeCometPartsB.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DashYoshiTimerBridgeCometPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DashYoshiTimerBridgePartsA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DashYoshiTimerBridgePartsB.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DashYoshiTimerBridgePlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DashYoshiWallClimbCometPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DashYoshiWallClimbPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DecorationBigCloud.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "DemoAstroCocoon.arc": {
+    ".bck": 2,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".brk": 2,
+    ".btk": 2,
+    ".bva": 2,
+    ".txt": 1
+  },
+  "DemoAstroPlanet.arc": {
+    ".bck": 2,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".brk": 2,
+    ".btk": 2,
+    ".bva": 2,
+    ".txt": 1
+  },
+  "DemoAstroPlanetNull.arc": {
+    ".bck": 2,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "DemoEndingNormalSky.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "DemoKoopa.arc": {
+    ".banmt": 1,
+    ".bck": 11,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".btp": 7,
+    ".bva": 1,
+    ".canm": 1,
+    ".txt": 1
+  },
+  "DemoKoopaArm.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".bva": 1,
+    ".txt": 1
+  },
+  "DemoMarioFaceShipPlanet.arc": {
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 2,
+    "CollisionVersion": 1
+  },
+  "DemoTitleAnim.arc": {
+    ".banmt": 1,
+    ".bck": 2,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".canm": 2,
+    ".txt": 1
+  },
+  "DemoTitlePlanet.arc": {
+    ".banmt": 1,
+    ".bck": 3,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "DigMineBigStrongBlockStep.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DimensionAir.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".brk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DinoPackun.arc": {
+    ".banmt": 1,
+    ".bas": 14,
+    ".bck": 27,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".brk": 5,
+    ".bti": 1,
+    ".btp": 3,
+    ".canm": 4,
+    ".txt": 1
+  },
+  "DinoPackun2.arc": {
+    ".banmt": 1,
+    ".bas": 14,
+    ".bck": 23,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".brk": 7,
+    ".bti": 1,
+    ".btp": 3,
+    ".canm": 4,
+    ".txt": 1
+  },
+  "DinoPackunBaby.arc": {
+    ".banmt": 1,
+    ".bck": 24,
+    ".bcsv": 19,
+    ".bdl": 1,
+    ".bpk": 1,
+    ".brk": 3,
+    ".bti": 1,
+    ".canm": 3,
+    ".txt": 1
+  },
+  "DinoPackunBabyBattlePlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DinoPackunBabyBattlePlanetAir.arc": {
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "DinoPackunBabyEgg.arc": {
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "DinoPackunBabyPetal.arc": {
+    ".bck": 2,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "DinoPackunBabyShellBreak.arc": {
+    ".bck": 2,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".bva": 2,
+    ".txt": 1
+  },
+  "DinoPackunBabyShellCenter.arc": {
+    ".bck": 2,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "DinoPackunBabyShellDemo.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "DinoPackunBabyShellHip.arc": {
+    ".bck": 2,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "DinoPackunBabyShellLeft.arc": {
+    ".bck": 2,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "DinoPackunBabyShellRight.arc": {
+    ".bck": 2,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "DinoPackunBabyShellTail.arc": {
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "DinoPackunBattleLv2Planet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 2,
+    "CollisionVersion": 1
+  },
+  "DinoPackunBattlePlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DinoPackunBattlePlanetLow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "DinoPackunDemoPosition.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "DinoPackunEggShell.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".brk": 2,
+    ".btp": 2,
+    ".bva": 3,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DinoPackunEggShellBreak.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".brk": 1,
+    ".btp": 2,
+    ".txt": 1
+  },
+  "DinoPackunFireBall.arc": {
+    ".bck": 2,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "DinoPackunTailBall.arc": {
+    ".bdl": 1,
+    ".brk": 3,
+    ".btp": 2,
+    ".txt": 1
+  },
+  "Dodoryu.arc": {
+    ".banmt": 1,
+    ".bas": 13,
+    ".bck": 38,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".brk": 4,
+    ".bti": 1,
+    ".btk": 4,
+    ".btp": 2,
+    ".bva": 4,
+    ".canm": 4,
+    ".txt": 6
+  },
+  "DodoryuBank.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "DodoryuHillA.arc": {
+    ".bck": 2,
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "DodoryuHillB.arc": {
+    ".bck": 2,
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "DodoryuHillC.arc": {
+    ".bck": 2,
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "DodoryuLeadHill.arc": {
+    ".banmt": 1,
+    ".bck": 12,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "Dossun.arc": {
+    ".bck": 1,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".bva": 2,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DossunBig.arc": {
+    ".bck": 1,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".bva": 2,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DotPatternSky.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "Dreamer.arc": {
+    ".bck": 6,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "Drill2DReflectMazeRoom.arc": {
+    ".bdl": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "Drill2DTimingPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DrillHoleIn.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "DrillHoleOut.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "DrillWaterSpringPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DrumActionPlanetB.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DrumActionPlanetBLow.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "DrumBegomanHolePlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DrumSeparateRocketPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DrumTrampoline.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "DustCloud.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "DustCrystal.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "DustFlower.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "DustIceCrystal.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "DustKoopaBrick.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "DustLava.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "DustMetal.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "EarthenPipe.arc": {
+    ".bck": 1,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".brk": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "EarthenPipePictureBook.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ElectricBullet.arc": {
+    ".bck": 2,
+    ".bcsv": 7,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "ElectricPressure.arc": {
+    ".banmt": 1,
+    ".bck": 2,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "ElectricRail.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "ElectricRailMoving.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "ElectricRailPoint.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "ErrorMessageImage.arc": {
+    ".bti": 1,
+    ".txt": 1
+  },
+  "FallDownBridgeRock.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "FallDownWall.arc": {
+    ".bck": 1,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "Fan.arc": {
+    ".bck": 1,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "FanWind.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "FileSelectDataKinopio.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btp": 4,
+    ".txt": 1
+  },
+  "FileSelectDataLuigi.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btp": 4,
+    ".txt": 1
+  },
+  "FileSelectDataMario.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btp": 4,
+    ".txt": 1
+  },
+  "FileSelectDataPeach.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btp": 4,
+    ".txt": 1
+  },
+  "FileSelectDataPlanet.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "FileSelectDataRosetta.arc": {
+    ".bdl": 1,
+    ".btp": 5,
+    ".txt": 1
+  },
+  "FileSelectDataTico.arc": {
+    ".bck": 4,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "FileSelectDataYoshi.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btp": 4,
+    ".txt": 1
+  },
+  "FineAndStormSky.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "FireBall.arc": {
+    ".bck": 1,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "FireBallSpreadLava.arc": {
+    ".bck": 3,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".btk": 1,
+    ".bva": 3,
+    ".txt": 1
+  },
+  "FireBarBall.arc": {
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "FireBarCore.arc": {
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "FireBarCoverA.arc": {
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "FireBarCoverMiniA.arc": {
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "FireBarSpherePlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "FireBarSpherePlanetBloom.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "FireBarSpherePlanetLow.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "FireBubble.arc": {
+    ".banmt": 1,
+    ".bck": 6,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "FireBullet.arc": {
+    ".bck": 2,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "FirePressure.arc": {
+    ".banmt": 1,
+    ".bas": 3,
+    ".bck": 8,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "FireRingBall.arc": {
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "FishA.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "FishB.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "FishC.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "FlagKoopaA.arc": {
+    ".bti": 1,
+    ".txt": 1
+  },
+  "FlagPeachCastleA.arc": {
+    ".bti": 1,
+    ".txt": 1
+  },
+  "FlagPeachCastleB.arc": {
+    ".bti": 1,
+    ".txt": 1
+  },
+  "FlagPeachCastleC.arc": {
+    ".bti": 1,
+    ".txt": 1
+  },
+  "FlipPanel.arc": {
+    ".bck": 3,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "FlipPanelBloom.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "FlipPanelInfernoPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "FlipPanelKillerPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "FlipTurnMoveStep.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "FlowerBlossomRellayPlanet.arc": {
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "FlowerHighlandPlanetA.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".dvw": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "FlowerHighlandPlanetB.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "FlowerHighlandPlanetC.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "FlowerHighlandPlanetCLow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "FlowerHighlandPlanetD.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "FlowerHighlandPlanetDLow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "FlowerMimic.arc": {
+    ".banmt": 1,
+    ".bck": 6,
+    ".bcsv": 8,
+    ".bdl": 1,
+    ".brk": 7,
+    ".bva": 6,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "Fluff.arc": {
+    ".banmt": 1,
+    ".bck": 6,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".brk": 4,
+    ".txt": 1
+  },
+  "FluffLeaf.arc": {
+    ".bas": 1,
+    ".bck": 3,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "FollowerDrillDiskPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "FollowerDrillDiskPlanetParts.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "FollowerDrillInsidePlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "FollowerDrillInsidePlanetCover.arc": {
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "FollowerDrillPearPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "Foomin.arc": {
+    ".banmt": 1,
+    ".bck": 3,
+    ".bcsv": 7,
+    ".bdl": 1,
+    ".bva": 3,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "FoominLavaCrossPlanet.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "FoominLavaCrossPlanetBloom.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "FoominLavaCrossPlanetProminence.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "FoominLavaCrossPlanetProminenceBloom.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "FountainBig.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "FreezeVolcanoIce.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "FreezeVolcanoMagma.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GalaxyInfoTexture.arc": {
+    ".bti": 49,
+    ".txt": 1
+  },
+  "GalaxySky.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "Garigari.arc": {
+    ".bck": 6,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GarigariCutPlanetPartsA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GarigariCutPlanetPartsB.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GarigariCutPlanetPartsC.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GarigariCutPlanetPartsD.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GarigariCutStepCircle.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GarigariCutStepCircleHalfLeftA.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GarigariCutStepCircleHalfLeftB.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GarigariCutStepCircleHalfRightA.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GarigariCutStepCircleHalfRightB.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GarigariCutStepFlatA.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GarigariCutStepFlatB.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GarigariCutStepFlatC.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GarigariCutStepFlatHoleA.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GarigariCutStepFlatHoleB.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GarigariCutStepFlatMiniA.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GarigariCutStepFlatMiniB.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GarigariCutStepFlatThick.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GarigariCutStepFlatThinLeft.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GarigariCutStepFlatThinRight.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GarigariCutStepFlatThreeCenter.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GarigariCutStepFlatThreeLeft.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GarigariCutStepFlatThreeRight.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GarigariCutStepOblique.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GarigariCutStepWithSwitch.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GarigariMini.arc": {
+    ".bck": 6,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GCaptureRibbon.arc": {
+    ".bti": 1,
+    ".txt": 1
+  },
+  "GCaptureTarget.arc": {
+    ".banmt": 1,
+    ".bck": 3,
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "Gesso.arc": {
+    ".banmt": 1,
+    ".bas": 2,
+    ".bck": 11,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".btp": 6,
+    ".txt": 1
+  },
+  "GhostAttackGhost.arc": {
+    ".bcsv": 10,
+    ".bdl": 1,
+    ".brk": 1,
+    ".bti": 1,
+    ".btp": 3,
+    ".txt": 1
+  },
+  "GhostClipPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GhostClipPlanetLiftA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GhostClipPlanetPartsA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GhostMazePlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GhostMazePlanetMask.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btk": 2,
+    ".txt": 1
+  },
+  "GhostMazePushDoor.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GhostMazePushDoorB.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GhostMazeWall.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GhostTower2DPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GiantRotationPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GiantRotationRockA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GiantRotationRockB.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GiantRotationRockC.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GiantRotationRockD.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GiantTeresaCircleConveyor.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GiantTeresaCirclePlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GiantTeresaCirclePlanetParts.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GlareGlow.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "GlareLine.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "GliBird.arc": {
+    ".banmt": 1,
+    ".bck": 18,
+    ".bcsv": 11,
+    ".bdl": 1,
+    ".btp": 5,
+    ".txt": 1
+  },
+  "GliderBalloon.arc": {
+    ".bck": 2,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "GliderBalloonMini.arc": {
+    ".bck": 2,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "GliderBazooka.arc": {
+    ".bck": 4,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "GliderBazookaBreak.arc": {
+    ".bck": 1,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".bva": 1,
+    ".txt": 1
+  },
+  "GliderChangeVisiblePillar.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GliderChangeVisiblePillarAlpha.arc": {
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "GliderChangeVisiblePillarB.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GliderChangeVisiblePillarBAlpha.arc": {
+    ".bdl": 1,
+    ".brk": 2,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GliderCliffCreekPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GliderCometMedalCage.arc": {
+    ".bck": 2,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GliderCylinderPlanet.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GliderDossunRoadPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GliderDownFallOutWardPlanet.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "GliderDownFallPlanet.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GliderDownPillar.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GliderForestPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GliderForestWaterfallRelayPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GliderHoleThroughWallA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GliderPoleWoodPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GliderShooterBullet.arc": {
+    ".bck": 1,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "GliderStartWoodPlanet.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GliderTreeA.arc": {
+    ".bck": 2,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GliderWaterfallPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GoldenWanwanConveyPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GoldenWanwanConveyPlanetLow.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "GoodWeatherSky.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "Gorogoro.arc": {
+    ".bck": 1,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".brk": 2,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GorogoroAlpha.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "GorogoroCylinderRockA.arc": {
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GorogoroCylinderRockB.arc": {
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GorogoroPair.arc": {
+    ".bck": 1,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".brk": 2,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GorogoroPairAlpha.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "GorogoroPyramidPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GoroRockBreakFance.arc": {
+    ".bdl": 1,
+    ".bva": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GoroRockBreakFanceBreak.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "GoroRockCoverCage.arc": {
+    ".bck": 2,
+    ".bdl": 1,
+    ".btk": 2,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GoroRockCoverCageFrame.arc": {
+    ".bck": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "GoroRockDashPanel.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GoroRockDashPlanetA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GoroRockDashPlanetB.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GoroRockDashStartStep.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GoroRockLaneBaseA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GoroRockLaneBaseB.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GoroRockLaneGoalStep.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GoroRockLanePartsFlatA.arc": {
+    ".bdl": 1,
+    ".brk": 2,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GoroRockLanePartsHole.arc": {
+    ".bdl": 1,
+    ".brk": 2,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GoroRockLanePartsMove.arc": {
+    ".bdl": 1,
+    ".brk": 2,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GoroRockLanePartsRotate.arc": {
+    ".bdl": 1,
+    ".brk": 2,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GoroRockStartPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GoroRockSwanpAcrossPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GoroRockTakoHeiPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GrandStar.arc": {
+    ".banmt": 1,
+    ".bas": 4,
+    ".bck": 19,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".brk": 2,
+    ".canm": 3,
+    ".txt": 1
+  },
+  "GrapyonBody.arc": {
+    ".banmt": 1,
+    ".bck": 8,
+    ".bcsv": 8,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "GrapyonHead.arc": {
+    ".banmt": 1,
+    ".bck": 8,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btp": 2,
+    ".txt": 1
+  },
+  "GraviryTimerChange2DActionPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GravityArrow.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "GravityFallBlock.arc": {
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GravityFallBlockBreak.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "GravityFallBlockSnow.arc": {
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GravityFallBlockSnowBreak.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".bva": 1,
+    ".txt": 1
+  },
+  "GravityFollowLift.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GravityFollowLift2DPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GravityFollowLiftB.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GravityFollowLiftBig.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GravityFollowLiftLongPanel.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GravityFollowPanel.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "GravityFollowPanelJumpStandPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "GravityLightRoad.arc": {
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".brk": 3,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "GravityTimerChangeWall.arc": {
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".btk": 1,
+    ".bva": 2,
+    ".txt": 1
+  },
+  "HalfGalaxySky.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "HammerBros.arc": {
+    ".banmt": 1,
+    ".bck": 13,
+    ".bcsv": 10,
+    ".bdl": 1,
+    ".btp": 13,
+    ".txt": 1
+  },
+  "HammerBrosHammer.arc": {
+    ".bck": 2,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "HanachanBody.arc": {
+    ".banmt": 1,
+    ".bck": 12,
+    ".bcsv": 9,
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "HanachanBodyBig.arc": {
+    ".bck": 1,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "HanachanBodyS.arc": {
+    ".banmt": 1,
+    ".bck": 13,
+    ".bcsv": 9,
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "HanachanBodySBig.arc": {
+    ".bck": 1,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "HanachanHead.arc": {
+    ".banmt": 1,
+    ".bas": 1,
+    ".bck": 12,
+    ".bcsv": 9,
+    ".bdl": 1,
+    ".brk": 2,
+    ".bva": 2,
+    ".txt": 1
+  },
+  "HanachanHeadBig.arc": {
+    ".bck": 1,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".brk": 2,
+    ".bva": 2,
+    ".txt": 1
+  },
+  "HelperWitch.arc": {
+    ".banmt": 2,
+    ".bck": 16,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".bva": 1,
+    ".canm": 1,
+    ".txt": 1
+  },
+  "HelperWitchBall.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".bva": 1,
+    ".txt": 1
+  },
+  "HelperWitchEffect.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "HighSpeedLiftRock.arc": {
+    ".bck": 2,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "HipDropMoveBlockHShape.arc": {
+    ".bck": 2,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "HipDropMoveCylinderBig.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "HipDropMoveCylinderMiddle.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "HipDropMoveCylinderSmall.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "HipDropMovePicturePartsA.arc": {
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "HipDropMovePicturePartsB.arc": {
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "HipDropMovePicturePartsC.arc": {
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "HipDropMoveRock.arc": {
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "HipDropRock.arc": {
+    ".bdl": 1,
+    ".bva": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "HipDropRockBreak.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "HipDropSetCylinder.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "HipDropSwitch.arc": {
+    ".bck": 2,
+    ".bdl": 1,
+    ".brk": 2,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "HipDropTimerSwitch.arc": {
+    ".bck": 3,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".brk": 2,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "HolePlanetInsideSky.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "HomeCenterRellayPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "HomingKiller.arc": {
+    ".bck": 4,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".bpk": 2,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "HoneyBee.arc": {
+    ".banmt": 1,
+    ".bas": 1,
+    ".bck": 16,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".btp": 15,
+    ".txt": 2
+  },
+  "HoneyBeeGoodsLance.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "HoneyBeeLow.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 2
+  },
+  "HoneyBeeMiddle.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 2
+  },
+  "HoneyBeeWallClimbPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "HoneyQueen.arc": {
+    ".banmt": 1,
+    ".bck": 4,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btp": 4,
+    ".dvmat": 1,
+    ".dvw": 1,
+    ".kcl": 10,
+    ".pa": 10,
+    ".txt": 2,
+    "CollisionVersion": 1
+  },
+  "HoneyQueenLow.arc": {
+    ".bdl": 1,
+    ".txt": 2
+  },
+  "HoneyQueenMiddle.arc": {
+    ".bdl": 1,
+    ".txt": 2
+  },
+  "HoneyQueenPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "HoneyQueenWing.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "HopperLuigi.arc": {
+    ".bdl": 1,
+    ".btp": 1,
+    ".txt": 1
+  },
+  "HopperMario.arc": {
+    ".bdl": 1,
+    ".btp": 1,
+    ".txt": 1
+  },
+  "Horino.arc": {
+    ".bck": 5,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".btk": 1,
+    ".btp": 2,
+    ".txt": 1
+  },
+  "HorinoHill.arc": {
+    ".bck": 1,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "HShapeBlockSetPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "HShapeBlockSetPlanetParts.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "HugeHammerConveyerDown.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "HugeHammerConveyerUp.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "HugeHammerPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "IceMagmaAppearanceStep.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "IceMagmaSkatePlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "IceMagmaSkatePlanetIce.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "IceMeramera.arc": {
+    ".banmt": 1,
+    ".bck": 12,
+    ".bcsv": 7,
+    ".bdl": 1,
+    ".brk": 3,
+    ".btp": 3,
+    ".txt": 1
+  },
+  "IceMeteor.arc": {
+    ".bck": 3,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "IceMeteorBall.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "InfernoMario.arc": {
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "InvincibleLuigi.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "InvincibleMario.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "InvincibleMarioHandL.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "InvincibleMarioHandR.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "InvisibleWall10x10.arc": {
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "IslandFleetDiscPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ItemBubble.arc": {
+    ".bck": 1,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "ItemCollectionPlanet.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ItemCollectionPlanetWall.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "ItemDice.arc": {
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".btp": 1,
+    ".txt": 1
+  },
+  "ItemDrill.arc": {
+    ".bck": 9,
+    ".bcsv": 7,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "ItemRoomDoor.arc": {
+    ".bck": 2,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ItemRoomItemBase.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".brk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "Jellyfish.arc": {
+    ".banmt": 1,
+    ".bas": 1,
+    ".bck": 6,
+    ".bdl": 1,
+    ".brk": 6,
+    ".txt": 1
+  },
+  "JellyfishElectric.arc": {
+    ".banmt": 1,
+    ".bas": 2,
+    ".bck": 5,
+    ".bdl": 1,
+    ".brk": 6,
+    ".btk": 6,
+    ".txt": 1
+  },
+  "JewelRelayPlanetA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "JrRobotBeam.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "JrRobotStep.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "JrRobotStepBreakableA.arc": {
+    ".bck": 1,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".bva": 2,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "JrRobotWeakPoint.arc": {
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".brk": 2,
+    ".btk": 3,
+    ".bva": 3,
+    ".txt": 1
+  },
+  "JrRobotWeakPointBreak.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "Jugem.arc": {
+    ".banmt": 1,
+    ".bck": 24,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".btp": 20,
+    ".bva": 1,
+    ".txt": 1
+  },
+  "JugemCloud.arc": {
+    ".banmt": 1,
+    ".bck": 12,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".bva": 1,
+    ".txt": 1
+  },
+  "JumpBeamerBeam.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".brk": 1,
+    ".btp": 1,
+    ".txt": 1
+  },
+  "JumpBeamerBeamBloom.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".bpk": 1,
+    ".txt": 1
+  },
+  "JumpBeamerBody.arc": {
+    ".bck": 5,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "JumpBeamerHead.arc": {
+    ".banmt": 1,
+    ".bck": 5,
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "JumpBranch.arc": {
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "JumpHole.arc": {
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "JumpHoleTamakoroA.arc": {
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "JumpHoleTamakoroB.arc": {
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "JumpSpider.arc": {
+    ".banmt": 1,
+    ".bas": 4,
+    ".bck": 11,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".txt": 2
+  },
+  "JumpStand.arc": {
+    ".bck": 4,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "JumpStandAuto.arc": {
+    ".bck": 1,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "Kabokuri.arc": {
+    ".banmt": 1,
+    ".bas": 2,
+    ".bck": 7,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "KabokuriBreak.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "KabokuriHead.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "Kameck.arc": {
+    ".banmt": 1,
+    ".bck": 12,
+    ".bcsv": 8,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "Kanina.arc": {
+    ".banmt": 1,
+    ".bas": 6,
+    ".bck": 21,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".btp": 4,
+    ".txt": 1
+  },
+  "KaninaClaw.arc": {
+    ".bck": 3,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "KaninaRed.arc": {
+    ".banmt": 1,
+    ".bas": 7,
+    ".bck": 21,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".btp": 4,
+    ".txt": 1
+  },
+  "Karipon.arc": {
+    ".banmt": 1,
+    ".bas": 2,
+    ".bck": 8,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".btp": 2,
+    ".txt": 1
+  },
+  "Karon.arc": {
+    ".banmt": 1,
+    ".bas": 3,
+    ".bck": 12,
+    ".bcsv": 7,
+    ".bdl": 1,
+    ".brk": 3,
+    ".txt": 1
+  },
+  "KeySwitch.arc": {
+    ".banmt": 1,
+    ".bck": 3,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "KickStone.arc": {
+    ".bck": 2,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".bva": 2,
+    ".txt": 1
+  },
+  "KickStoneBreak.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "KingTossin.arc": {
+    ".banmt": 1,
+    ".bck": 25,
+    ".bcsv": 11,
+    ".bdl": 1,
+    ".bva": 24,
+    ".canm": 3,
+    ".txt": 2
+  },
+  "Kinoko.arc": {
+    ".bck": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "KinokoLifeUp.arc": {
+    ".bck": 2,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "KinokoOneUp.arc": {
+    ".bck": 2,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "KinokoOneUpPicture.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "Kinopio.arc": {
+    ".banmt": 1,
+    ".bas": 7,
+    ".bck": 55,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".brk": 1,
+    ".btp": 31,
+    ".txt": 1
+  },
+  "KinopioGoodsGlasses.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "KinopioGoodsLight.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "KinopioGoodsLightOff.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "KinopioGoodsMailBag.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "KinopioGoodsPickel.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "KinopioGoodsRucksack.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "KinopioGoodsSnorkel.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "KinopioGoodsStarPiece.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".bpk": 1,
+    ".txt": 1
+  },
+  "KinopioGoodsWeapon.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "KinopioLow.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "KinopioMiddle.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "Kiraira.arc": {
+    ".bas": 2,
+    ".bck": 7,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".brk": 4,
+    ".btp": 2,
+    ".txt": 1
+  },
+  "KoopaBackEffect.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "KoopaBattleLv1Planet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaBattleLv2Planet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaBattleLv3Planet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaBattleSky.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "KoopaCastleFireTowerA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaDefenseForm.arc": {
+    ".bck": 3,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "KoopaDemoChamber.arc": {
+    ".bck": 1,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".bva": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaDemoChamberBreak.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "KoopaFinalStarPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaFireBall.arc": {
+    ".bck": 3,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".btk": 1,
+    ".bva": 1,
+    ".txt": 1
+  },
+  "KoopaJr.arc": {
+    ".banmt": 1,
+    ".bas": 5,
+    ".bck": 21,
+    ".bcsv": 8,
+    ".bdl": 1,
+    ".btp": 2,
+    ".bva": 7,
+    ".canm": 1,
+    ".txt": 1
+  },
+  "KoopaJrCastleBody.arc": {
+    ".banmt": 1,
+    ".bck": 12,
+    ".bcsv": 8,
+    ".bdl": 1,
+    ".bpk": 1,
+    ".brk": 2,
+    ".btk": 4,
+    ".bva": 1,
+    ".canm": 4,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaJrCastleBodyLow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "KoopaJrCastleBreak.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "KoopaJrCastleCapsule.arc": {
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".brk": 4,
+    ".bva": 5,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaJrCastleCloudStep.arc": {
+    ".banmt": 1,
+    ".bck": 4,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".bva": 3,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaJrCastleCloudStepAlpha.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".brk": 3,
+    ".txt": 1
+  },
+  "KoopaJrCastleGate.arc": {
+    ".banmt": 1,
+    ".bck": 2,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaJrCastleGatePlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaJrCastleGatePlanetLow.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "KoopaJrCastleHead.arc": {
+    ".banmt": 1,
+    ".bck": 15,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".bpk": 1,
+    ".brk": 7,
+    ".bva": 1,
+    ".jpa": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaJrCastlePlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaJrCastlePlanetLow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "KoopaJrCastlePlanetMiddle.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaJrLow.arc": {
+    ".bdl": 1,
+    ".bva": 2,
+    ".txt": 1
+  },
+  "KoopaJrLv2BossRelayPlanet.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaJrLv2FloatPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaJrLv2Lift.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaJrLv2StartPlanet.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaJrLv2StartPlanetB.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaJrLv3Sky.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "KoopaJrMiddle.arc": {
+    ".bdl": 1,
+    ".bva": 2,
+    ".txt": 1
+  },
+  "KoopaJrRobot.arc": {
+    ".banmt": 1,
+    ".bck": 21,
+    ".bcsv": 10,
+    ".bdl": 1,
+    ".brk": 2,
+    ".canm": 3,
+    ".kcl": 3,
+    ".pa": 3,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaJrRobotBreak.arc": {
+    ".bck": 1,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "KoopaJrRobotBreakPlanet.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaJrRobotPod.arc": {
+    ".banmt": 1,
+    ".bck": 6,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".brk": 3,
+    ".bva": 4,
+    ".txt": 1
+  },
+  "KoopaJrRobotPodCrack.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "KoopaJrStatue.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".bva": 2,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaJrStatueBreak.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "KoopaLastBattleSky.arc": {
+    ".bck": 3,
+    ".bdl": 1,
+    ".btk": 1,
+    ".bva": 3,
+    ".txt": 1
+  },
+  "KoopaLv1LavaFallStep.arc": {
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaLv1StartStep.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaLv2BattleRelayPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaLv2LavaLift.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaLv3Seesaw.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaPunchRock.arc": {
+    ".bck": 3,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "KoopaQuakeWave.arc": {
+    ".bck": 3,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "KoopaQuakeWaveVertical.arc": {
+    ".bck": 2,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".btk": 2,
+    ".txt": 1
+  },
+  "KoopaSeal.arc": {
+    ".bcsv": 15,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaSealBreak.arc": {
+    ".bck": 1,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "KoopaSealChain.arc": {
+    ".bck": 3,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaSealField.arc": {
+    ".bck": 4,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaSealFieldMiddle.arc": {
+    ".bck": 4,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaShell.arc": {
+    ".banmt": 1,
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "KoopaShipA.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaStatue.arc": {
+    ".bck": 3,
+    ".bdl": 1,
+    ".bva": 2,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaStatueBreak.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "KoopaVs1.arc": {
+    ".banmt": 1,
+    ".bck": 24,
+    ".bcsv": 13,
+    ".bdl": 1,
+    ".btk": 3,
+    ".btp": 26,
+    ".canm": 3,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaVS1Sky.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "KoopaVs2.arc": {
+    ".banmt": 1,
+    ".bck": 24,
+    ".bcsv": 13,
+    ".bdl": 1,
+    ".btk": 3,
+    ".btp": 26,
+    ".canm": 3,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoopaVs3.arc": {
+    ".banmt": 1,
+    ".bck": 38,
+    ".bcsv": 13,
+    ".bdl": 1,
+    ".btk": 5,
+    ".btp": 39,
+    ".canm": 5,
+    ".kcl": 3,
+    ".pa": 3,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KoteBug.arc": {
+    ".banmt": 1,
+    ".bck": 9,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "Koura.arc": {
+    ".backup": 1,
+    ".bck": 9,
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "Kuribo.arc": {
+    ".banmt": 1,
+    ".bas": 1,
+    ".bck": 30,
+    ".bcsv": 14,
+    ".bdl": 1,
+    ".brk": 2,
+    ".btp": 7,
+    ".txt": 1
+  },
+  "KuriboChief.arc": {
+    ".banmt": 1,
+    ".bas": 4,
+    ".bck": 19,
+    ".bcsv": 11,
+    ".bdl": 1,
+    ".btp": 3,
+    ".txt": 1
+  },
+  "KuriboFence.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "KuriboMini.arc": {
+    ".banmt": 1,
+    ".bas": 2,
+    ".bck": 15,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".brk": 2,
+    ".btp": 7,
+    ".txt": 1
+  },
+  "LavaAcrossFloater.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "LavaBeforeRepeatBlockFloater.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "LavaBubble.arc": {
+    ".bck": 2,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "LavaBubble2DPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "LavaDrillKillerPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "LavaFloaterTrapezoid.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "LavaFloatingStepA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "LavaFloatingStepB.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "LavaFluffFallPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "LavaFluffFallRotateStep.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "LavaGeyser.arc": {
+    ".bck": 3,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "LavaGravityRoadPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "LavaProminence.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "LavaProminenceBloom.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "LavaSeparateWaterfall.arc": {
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "LavaSnowBallConveyPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "LavaYoshiActionFloaterA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "LavaYoshiActionPlanetA.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "LeafBoard.arc": {
+    ".bck": 3,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "LeafManholeCover.arc": {
+    ".bas": 1,
+    ".bck": 3,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "LensFlare.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "LiftFlower.arc": {
+    ".banmt": 1,
+    ".bck": 3,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".brk": 2,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "LiftFlowerFrame.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "LightFruit.arc": {
+    ".banmt": 1,
+    ".bck": 7,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "LongCylinderFlowSandPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 2,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "LongCylinderFlowSandRotateStepA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "LongCylinderFlowSandStep.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "LotusLeaf.arc": {
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "LuckyDice.arc": {
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".btp": 1,
+    ".txt": 1
+  },
+  "LuckyRoomPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "Luigi.arc": {
+    ".bdl": 1,
+    ".bti": 1,
+    ".txt": 1
+  },
+  "LuigiCap.arc": {
+    ".banmt": 1,
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "LuigiFace.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "LuigiHair.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "LuigiHairAnim.arc": {
+    ".banmt": 1,
+    ".bck": 11,
+    ".bcsv": 1,
+    ".bva": 12,
+    ".txt": 1
+  },
+  "LuigiHairAnimMarioFaceShipGalaxy2.arc": {
+    ".bck": 2,
+    ".bcsv": 1,
+    ".bva": 2,
+    ".txt": 1
+  },
+  "LuigiHairAnimVsKoopaLv1Galaxy.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bva": 1,
+    ".txt": 1
+  },
+  "LuigiNPC.arc": {
+    ".banmt": 1,
+    ".bck": 8,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".btp": 5,
+    ".bva": 9,
+    ".txt": 1
+  },
+  "LuigiNPCLow.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "LuigiNPCMiddle.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "LuigiOnMarioParts.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "LuigiShadow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "LuigiTornado.arc": {
+    ".banmt": 1,
+    ".bck": 3,
+    ".bdl": 1,
+    ".btk": 3,
+    ".btp": 1,
+    ".txt": 1
+  },
+  "MagmaBoatIcePlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MagmaBoatIcePlanetIce.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MagmaBoatMagmaPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MagmaBoatMagmaPlanetIce.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MagmaBoatRockA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MagmaBoatRockB.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MagmaBoatRockC.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MagmaBoatRockD.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MagmaMeteor.arc": {
+    ".bck": 3,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".brk": 3,
+    ".btk": 3,
+    ".bva": 3,
+    ".txt": 1
+  },
+  "MagmaMeteorBall.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MagmaMonsterBigPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MagmaMonsterPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MagmaMonsterPole.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MagmaMonsterRotateSeasaw.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MagmaMonsterSky.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MagmaMonsterSmallPlanetStep.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MagmaMonsterSmallPlanetStepBig.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MagmaMonsterSmallPlanetStepBigBurn.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MagmaMonsterSmallPlanetStepBurn.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MagmaMonsterStarCaptureStep.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MagmaSeaWave.arc": {
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MagmaSeaWavePlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MagmaSlicePlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MagmaSliceRotateStepA.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MagmaSliceRotateStepB.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MagmaSliceRotateStepC.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MagmaSliceRotateStepD.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MagmaSliceRotateStepE.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MagmaSliceRotateStepF.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MagmaSliceRotateStepG.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MagmaSliceRotateStepH.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MagnumKiller.arc": {
+    ".bck": 2,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MameMuimuiGreen.arc": {
+    ".bck": 7,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MameMuimuiScorer.arc": {
+    ".bcsv": 2,
+    ".txt": 1
+  },
+  "MameMuimuiScorerLv2.arc": {
+    ".bcsv": 2,
+    ".txt": 1
+  },
+  "MameMuimuiSpike.arc": {
+    ".bck": 7,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MameMuimuiYellow.arc": {
+    ".bck": 7,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MarinePlant00.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".btp": 1,
+    ".txt": 1
+  },
+  "MarineSnow.arc": {
+    ".bti": 1,
+    ".txt": 1
+  },
+  "Mario.arc": {
+    ".bdl": 1,
+    ".bti": 1,
+    ".txt": 1
+  },
+  "MarioAnime.arc": {
+    ".banmt": 1,
+    ".bas": 35,
+    ".bck": 733,
+    ".bcsv": 1,
+    ".bmt": 1,
+    ".bti": 1,
+    ".btk": 2,
+    ".btp": 71,
+    ".bva": 19,
+    ".canm": 5,
+    ".txt": 1
+  },
+  "MarioCap.arc": {
+    ".banmt": 1,
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MarioConst.arc": {
+    ".bcsv": 3,
+    ".bin": 3,
+    ".txt": 1
+  },
+  "MarioDummyItem.arc": {
+    ".bck": 4,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MarioFace.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MarioFaceFruitRellayParts.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MarioFacePlanetPrevious.arc": {
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MarioFaceShipChimney.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MarioFaceShipJet.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MarioFaceShipPlanet.arc": {
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".btk": 1,
+    ".canm": 2,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 2,
+    "CollisionVersion": 1
+  },
+  "MarioFaceShipPlanetCore.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MarioFaceShipRudder.arc": {
+    ".bck": 5,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MarioFireBall.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MarioFreezeIce.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".bva": 2,
+    ".txt": 1
+  },
+  "MarioHair.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MarioHairAnim.arc": {
+    ".banmt": 1,
+    ".bck": 11,
+    ".bcsv": 1,
+    ".bva": 12,
+    ".txt": 1
+  },
+  "MarioHairAnimMarioFaceShipGalaxy2.arc": {
+    ".bck": 2,
+    ".bcsv": 1,
+    ".bva": 2,
+    ".txt": 1
+  },
+  "MarioHairAnimVsKoopaLv1Galaxy.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bva": 1,
+    ".txt": 1
+  },
+  "MarioHandL.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MarioHandR.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MarioLauncher.arc": {
+    ".bas": 1,
+    ".bck": 3,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MarioLauncherTargetA.arc": {
+    ".bck": 2,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".brk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MarioLauncherTargetB.arc": {
+    ".bck": 2,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".brk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MarioLauncherTargetC.arc": {
+    ".bck": 2,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".brk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MarioShadow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MarioShipTakeOff.arc": {
+    ".bck": 4,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".bva": 1,
+    ".canm": 2,
+    ".txt": 1
+  },
+  "MarioTornado.arc": {
+    ".banmt": 1,
+    ".bck": 3,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btk": 3,
+    ".btp": 1,
+    ".txt": 1
+  },
+  "MechanicKoopaMini.arc": {
+    ".banmt": 1,
+    ".bas": 4,
+    ".bck": 14,
+    ".bcsv": 7,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "Meister.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MeisterAnim.arc": {
+    ".banmt": 1,
+    ".bck": 25,
+    ".bcsv": 9,
+    ".btp": 4,
+    ".bva": 11,
+    ".canm": 1,
+    ".txt": 1
+  },
+  "MeisterAnimPeachCastleGalaxy2.arc": {
+    ".banmt": 1,
+    ".bck": 3,
+    ".bcsv": 4,
+    ".btp": 2,
+    ".bva": 4,
+    ".txt": 1
+  },
+  "MemoryRoadDoor.arc": {
+    ".bck": 1,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".brk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MemoryRoadSky.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "MemoryRoadTicoCollectField.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MemoryRoadTowerField.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "Menbo.arc": {
+    ".banmt": 1,
+    ".bck": 11,
+    ".bcsv": 8,
+    ".bdl": 1,
+    ".brk": 2,
+    ".btp": 11,
+    ".txt": 1
+  },
+  "MenboFreezeIce.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".bva": 2,
+    ".txt": 1
+  },
+  "Meramera.arc": {
+    ".banmt": 1,
+    ".bck": 12,
+    ".bcsv": 7,
+    ".bdl": 1,
+    ".brk": 3,
+    ".btp": 3,
+    ".txt": 1
+  },
+  "Metbo.arc": {
+    ".banmt": 1,
+    ".bas": 1,
+    ".bck": 14,
+    ".bcsv": 7,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MeteorStrike.arc": {
+    ".bas": 3,
+    ".bck": 3,
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "MeteorStrikeBreak.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "MiiFaceDatabase.arc": {
+    ".dat": 1,
+    ".txt": 1
+  },
+  "MilkyWaySky.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MiniAbekobeGalaxy.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniAncientExcavationGalaxy.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniatureGalaxySelect.arc": {
+    ".bdl": 1,
+    ".brk": 2,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MiniBigGalaxy.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniBigTree2Galaxy.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniBigWaterFallGalaxy.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MiniChallengeGliderGalaxy.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniChaosGravityGalaxy.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniCloudGardenGalaxy.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniComet.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniDigMineGalaxy.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniDimensionBigCastleGalaxy.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniEarthenPipe.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniFlag.arc": {
+    ".bck": 4,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MiniFlowerHighlandGalaxy.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MiniGalaxyBackEffect01.arc": {
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "MiniGalaxyShadow.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniGhostConveyorGalaxy.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MiniGoroRockGalaxy.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MiniGreenComet.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniHomeCenterGalaxy.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniHoneyBeeVillageGalaxy.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MiniIslandFleetGalaxy.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniJungleGliderGalaxy.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MiniKachikochiLavaGalaxy.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MiniKingOfKingsGalaxy.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniKoopaCastleGalaxy.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MiniKoopaJrCastleGalaxy.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MiniLongForCastleGalaxy.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MiniMadnessOnimasuGalaxy.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".bva": 1,
+    ".txt": 1
+  },
+  "MiniMagicGalaxy.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniMarioOnMarioGalaxy.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MiniMemoryRoadGalaxy.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "MiniMokumokuValleyGalaxy.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniMysteryCandyGalaxy.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniOmoteuLandGalaxy.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniPlanetAcrossPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MiniPlanetAcrossPlanetMistA.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MiniPlayerRocket.arc": {
+    ".banmt": 1,
+    ".bck": 7,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".brk": 1,
+    ".canm": 1,
+    ".txt": 1
+  },
+  "MiniQuicksandGalaxy.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MiniRedBlueExGalaxy.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniRouteLine.arc": {
+    ".bdl": 1,
+    ".brk": 2,
+    ".bva": 2,
+    ".txt": 1
+  },
+  "MiniRouteLineShadow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniRoutePoint.arc": {
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".brk": 2,
+    ".bva": 2,
+    ".txt": 1
+  },
+  "MiniRoutePointShadow.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniSecretAthleticGalaxy.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniStarCheckPoint.arc": {
+    ".bck": 6,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniStarCheckPointMark.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniStarCreekGalaxy.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MiniStarPieceMine.arc": {
+    ".bck": 1,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniSwitchMoveBlockGalaxy.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniTamakoroPlanetGalaxy.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniTamakoroSliderGalaxy.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniTeresaLabyrinthGalaxy.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniThunderFleetGalaxy.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MiniTicoMaster.arc": {
+    ".bck": 2,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniTicoMasterMark.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniTimerSwitchingPlatformGalaxy.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".bva": 1,
+    ".txt": 1
+  },
+  "MiniTropicalResortGalaxy.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MiniTwisterTowerGalaxy.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MiniUnderGroundDangeonGalaxy.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MiniVsKoopaLv3Galaxy.arc": {
+    ".bck": 1,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MiniWanwanFactoryGalaxy.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MiniWhiteSnowGalaxy.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MiniWorld01.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MiniWorld02.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MiniWorld03.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MiniWorld04.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MiniWorld05.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MiniWorld06.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MiniWorld07.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MiniWorldWarpPoint.arc": {
+    ".bck": 5,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".btk": 5,
+    ".txt": 1
+  },
+  "MiniYosshiHomeGalaxy.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "Moc.arc": {
+    ".banmt": 1,
+    ".bck": 8,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".bva": 3,
+    ".txt": 1
+  },
+  "Mogucchi.arc": {
+    ".banmt": 1,
+    ".bck": 8,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".btp": 2,
+    ".txt": 1
+  },
+  "MogucchiHillA.arc": {
+    ".bck": 2,
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "MogucchiHillB.arc": {
+    ".bck": 2,
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "MogucchiHillC.arc": {
+    ".bck": 2,
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "MogucchiHole.arc": {
+    ".banmt": 1,
+    ".bck": 6,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MogucchiSpike.arc": {
+    ".bck": 10,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "Monte.arc": {
+    ".banmt": 2,
+    ".bck": 9,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "MonteStatue.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MoonRabbit.arc": {
+    ".banmt": 1,
+    ".bas": 3,
+    ".bck": 19,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "MuimuiAttackPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MuimuiHole.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MysteryCandyBrightPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MysteryCandyBrightPlanetCover.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MysteryCandyBrightPlanetParts.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MysteryCandyDecorateParts.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MysteryCandyDecoratePartsB.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MysteryCandyPlanet.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MysteryFlipPanelBrightPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MysteryFlipPanelPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MysteryMountainBrightPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MysteryMountainPlanet.arc": {
+    ".bck": 2,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".brk": 2,
+    ".bva": 2,
+    ".txt": 1
+  },
+  "MysteryMountainPlanetCover.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MysteryMoveStepA.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MysteryMoveStepB.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MysteryMoveStepC.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "MysteryMoveStepCoverA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MysteryMoveStepCoverB.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "MysteryMoveStepCoverC.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "NeedlePlant.arc": {
+    ".banmt": 1,
+    ".bck": 5,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "NeedlePlantFly.arc": {
+    ".banmt": 1,
+    ".bck": 3,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "NeedlePlantHill.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "NeedleTrap.arc": {
+    ".banmt": 1,
+    ".bck": 5,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "NeedleTrapSide.arc": {
+    ".bck": 5,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".csv~": 1,
+    ".kcl": 3,
+    ".pa": 3,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "NewBossStinkBugPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "NewOnimasuPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "NewOnimasuPlanetPartsGoal.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "NewOnimasuPlanetWater.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "Nigero.arc": {
+    ".banmt": 1,
+    ".bck": 15,
+    ".bcsv": 7,
+    ".bdl": 1,
+    ".brk": 2,
+    ".btp": 13,
+    ".txt": 1
+  },
+  "NigeroPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "NokonokoLand.arc": {
+    ".banmt": 1,
+    ".bas": 3,
+    ".bck": 20,
+    ".bdl": 1,
+    ".brk": 1,
+    ".btp": 11,
+    ".txt": 1
+  },
+  "NokonokoLandBig.arc": {
+    ".banmt": 1,
+    ".bck": 2,
+    ".bcsv": 7,
+    ".bdl": 1,
+    ".brk": 1,
+    ".btp": 2,
+    ".txt": 1
+  },
+  "Note.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "NPCData.arc": {
+    ".bcsv": 14,
+    ".txt": 1
+  },
+  "NyoroponBody.arc": {
+    ".banmt": 1,
+    ".bck": 6,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "NyoroponHead.arc": {
+    ".banmt": 1,
+    ".bck": 8,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".btp": 5,
+    ".txt": 1
+  },
+  "OldFortressPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "OldFortressRotateStep.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "OldFortressSlideStep.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "OldFortressTopCover.arc": {
+    ".bck": 1,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "OldFortressUnderCover.arc": {
+    ".bck": 1,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "OmoteuLandSky.arc": {
+    ".bck": 4,
+    ".bdl": 1,
+    ".brk": 4,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "Onimasu.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "OnimasuPlanetRailMovePartsA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "OnimasuPlanetRotatePartsA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "OnimasuPlanetRotatePartsB.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "OtaKing.arc": {
+    ".banmt": 1,
+    ".bas": 2,
+    ".bck": 10,
+    ".bdl": 1,
+    ".bpk": 2,
+    ".brk": 2,
+    ".canm": 2,
+    ".txt": 1
+  },
+  "OtaKingBathPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "OtaKingFoot.arc": {
+    ".banmt": 1,
+    ".bck": 20,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "OtaKingLongFoot.arc": {
+    ".banmt": 1,
+    ".bck": 4,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "OtaKingMagma.arc": {
+    ".banmt": 1,
+    ".bck": 7,
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "OtaKingMagmaBloom.arc": {
+    ".banmt": 1,
+    ".bck": 7,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "OtaRock.arc": {
+    ".banmt": 1,
+    ".bck": 7,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "OtaRockChief.arc": {
+    ".banmt": 2,
+    ".bck": 16,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "OtaRockTank.arc": {
+    ".banmt": 1,
+    ".bck": 13,
+    ".bcsv": 9,
+    ".bdl": 1,
+    ".brk": 2,
+    ".canm": 2,
+    ".txt": 1
+  },
+  "OtaRockTankBreak.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PackunFlower.arc": {
+    ".banmt": 1,
+    ".bas": 7,
+    ".bck": 10,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PackunFlowerBig.arc": {
+    ".banmt": 1,
+    ".bck": 6,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PackunFlowerSpike.arc": {
+    ".banmt": 1,
+    ".bas": 7,
+    ".bck": 11,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PackunLeaf.arc": {
+    ".banmt": 1,
+    ".bck": 11,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PackunLeafSpike.arc": {
+    ".banmt": 1,
+    ".bck": 12,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PackunPetit.arc": {
+    ".banmt": 1,
+    ".bas": 2,
+    ".bck": 15,
+    ".bcsv": 7,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PackunPetitHead.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PaipoCrystalBreakPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "PatakuriWing.arc": {
+    ".bck": 4,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PatakuriWingBig.arc": {
+    ".bck": 3,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "Pattan.arc": {
+    ".banmt": 1,
+    ".bck": 10,
+    ".bcsv": 8,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "PattanBreak.arc": {
+    ".bck": 2,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "Peach.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PeachAnim.arc": {
+    ".banmt": 1,
+    ".bck": 12,
+    ".bcsv": 7,
+    ".btk": 2,
+    ".btp": 11,
+    ".bva": 1,
+    ".txt": 1
+  },
+  "PeachAnimPeachCastleGalaxy2.arc": {
+    ".banmt": 1,
+    ".bck": 4,
+    ".bcsv": 6,
+    ".btp": 4,
+    ".txt": 1
+  },
+  "PeachBubbleCage.arc": {
+    ".banmt": 1,
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PeachCastleMeteor.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "PeachCastleNightPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "PeachCastlePlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "PeachPrologueSky.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "PeachShootingStar.arc": {
+    ".bck": 3,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PeachUmbrella.arc": {
+    ".bck": 2,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".bva": 2,
+    ".txt": 1
+  },
+  "Penguin.arc": {
+    ".banmt": 1,
+    ".bas": 5,
+    ".bck": 23,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".brk": 2,
+    ".btp": 18,
+    ".dtp": 1,
+    ".txt": 1
+  },
+  "PenguinCoach.arc": {
+    ".banmt": 1,
+    ".bas": 1,
+    ".bck": 10,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".btp": 10,
+    ".txt": 1
+  },
+  "PenguinLow.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PenguinMaster.arc": {
+    ".banmt": 1,
+    ".bck": 5,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".btp": 5,
+    ".txt": 1
+  },
+  "PenguinMiddle.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "Petari.arc": {
+    ".banmt": 1,
+    ".bck": 6,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".bti": 1,
+    ".txt": 1
+  },
+  "PetitPorter.arc": {
+    ".bck": 5,
+    ".bcsv": 9,
+    ".bdl": 1,
+    ".brk": 3,
+    ".btk": 3,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "PetitPorterPlanetA.arc": {
+    ".bdl": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "PetitPorterPlanetB.arc": {
+    ".bdl": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "Peto.arc": {
+    ".banmt": 1,
+    ".bck": 13,
+    ".bcsv": 7,
+    ".bdl": 1,
+    ".brk": 4,
+    ".txt": 1
+  },
+  "PhantomCandlestand.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "PhantomSky.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "Pichan.arc": {
+    ".banmt": 1,
+    ".bck": 14,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".btp": 11,
+    ".bva": 11,
+    ".txt": 1
+  },
+  "PichanRacer.arc": {
+    ".banmt": 1,
+    ".bck": 22,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".brk": 1,
+    ".btp": 11,
+    ".bva": 11,
+    ".txt": 1
+  },
+  "PicketSwitch.arc": {
+    ".banmt": 1,
+    ".bck": 2,
+    ".bdl": 1,
+    ".brk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "PicketSwitchBig.arc": {
+    ".banmt": 1,
+    ".bck": 2,
+    ".bdl": 1,
+    ".brk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "PictureJoinPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "PictureJoinPlanetFinish.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "PlanetMapDataTable.arc": {
+    ".bcsv": 1,
+    ".txt": 1
+  },
+  "Plant.arc": {
+    ".bti": 2,
+    ".txt": 1
+  },
+  "PlantA00.arc": {
+    ".banmt": 1,
+    ".bck": 5,
+    ".bdl": 1,
+    ".btp": 1,
+    ".txt": 1
+  },
+  "PlantA01.arc": {
+    ".banmt": 1,
+    ".bck": 5,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PlantA02.arc": {
+    ".bck": 5,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PlantA03.arc": {
+    ".bck": 5,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PlantA04.arc": {
+    ".bck": 5,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PlantA05.arc": {
+    ".bck": 5,
+    ".bdl": 1,
+    ".btp": 1,
+    ".txt": 1
+  },
+  "PlantA06.arc": {
+    ".bck": 5,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PlantA07.arc": {
+    ".bck": 5,
+    ".bdl": 1,
+    ".btp": 1,
+    ".txt": 1
+  },
+  "PlantA08.arc": {
+    ".bck": 5,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PlantB00.arc": {
+    ".banmt": 1,
+    ".bck": 5,
+    ".bdl": 1,
+    ".btp": 1,
+    ".txt": 1
+  },
+  "PlantB03.arc": {
+    ".bck": 5,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PlantC00.arc": {
+    ".banmt": 1,
+    ".bck": 5,
+    ".bdl": 1,
+    ".btp": 1,
+    ".txt": 1
+  },
+  "PlantC01.arc": {
+    ".bck": 5,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PlantD01.arc": {
+    ".banmt": 1,
+    ".bck": 5,
+    ".bdl": 1,
+    ".btp": 1,
+    ".txt": 1
+  },
+  "PlantD02.arc": {
+    ".bck": 5,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PlantLeaf.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PlantSeed.arc": {
+    ".bck": 3,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PlantSliderLeaf.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PlantTop.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PoisonSwanpRailMoveSeesaw.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "PoisonSwanpSeesawMovePlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "Pole.arc": {
+    ".bdl": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "PoleObstaclePartsA.arc": {
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "PoleObstaclePartsB.arc": {
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "PoleObstaclePartsC.arc": {
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "PoleObstaclePartsD.arc": {
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "PoleSquare.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "PoleTreeA.arc": {
+    ".bck": 3,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "PoleTreeB.arc": {
+    ".bck": 3,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "Polta.arc": {
+    ".banmt": 1,
+    ".bas": 3,
+    ".bck": 35,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".brk": 2,
+    ".btk": 1,
+    ".bva": 5,
+    ".canm": 3,
+    ".txt": 1
+  },
+  "PoltaArmBreak.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PoltaBattlePlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "PoltaBattlePlanetPartsA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "PoltaBodyBreak.arc": {
+    ".bck": 4,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PoltaFormationRock.arc": {
+    ".bck": 6,
+    ".bdl": 1,
+    ".bva": 6,
+    ".txt": 1
+  },
+  "PoltaGroundRock.arc": {
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "PoltaGroundRockBreak.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PoltaLeftArm.arc": {
+    ".banmt": 1,
+    ".bas": 5,
+    ".bck": 30,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".bva": 4,
+    ".txt": 1
+  },
+  "PoltaRightArm.arc": {
+    ".banmt": 1,
+    ".bas": 5,
+    ".bck": 31,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".bva": 4,
+    ".txt": 1
+  },
+  "PoltaRock.arc": {
+    ".bck": 2,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".bva": 1,
+    ".txt": 1
+  },
+  "Popo.arc": {
+    ".banmt": 1,
+    ".bcam": 1,
+    ".bck": 12,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".brk": 5,
+    ".txt": 1
+  },
+  "PositiveDice.arc": {
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".btp": 1,
+    ".txt": 1
+  },
+  "PostFog.arc": {
+    ".bcsv": 1,
+    ".bti": 6,
+    ".txt": 1
+  },
+  "PowerStar.arc": {
+    ".banmt": 1,
+    ".bck": 19,
+    ".bcsv": 8,
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".btp": 1,
+    ".bva": 1,
+    ".canm": 2,
+    ".txt": 1
+  },
+  "PowerStarHalo.arc": {
+    ".bdl": 1,
+    ".brk": 2,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "PowerUpBee.arc": {
+    ".bck": 3,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PowerUpCloud.arc": {
+    ".bck": 4,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PowerUpFire.arc": {
+    ".bck": 3,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PowerUpHopper.arc": {
+    ".bck": 3,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PowerUpInvincible.arc": {
+    ".bck": 2,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "PowerUpLife.arc": {
+    ".bck": 3,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PowerUpRock.arc": {
+    ".bck": 3,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PowerUpTeresa.arc": {
+    ".bck": 3,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "ProductMapObjDataTable.arc": {
+    ".bcsv": 1,
+    ".txt": 1
+  },
+  "ProminenceSetA.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "ProminenceSetABloom.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "Pukupuku.arc": {
+    ".banmt": 1,
+    ".bck": 9,
+    ".bcsv": 13,
+    ".bdl": 1,
+    ".brk": 2,
+    ".btp": 2,
+    ".txt": 1
+  },
+  "PukupukuFreezeIce.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".bva": 2,
+    ".txt": 1
+  },
+  "PullTarget.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PullTargetDrawer.arc": {
+    ".bck": 5,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".brk": 3,
+    ".btk": 3,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "PunchBox.arc": {
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "PunchBox2D.arc": {
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "PunchingKinoko.arc": {
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".brk": 3,
+    ".txt": 1
+  },
+  "PurpleCoin.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "PusherWall.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "PusherWallDisappear.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".brk": 1,
+    ".bva": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "PusherWallPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "PusherWallPlanetParts.arc": {
+    ".bck": 1,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".brk": 1,
+    ".bva": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "Pyudon.arc": {
+    ".banmt": 1,
+    ".bck": 15,
+    ".bcsv": 9,
+    ".bdl": 1,
+    ".btp": 10,
+    ".txt": 2
+  },
+  "QuestionCoin.arc": {
+    ".bdl": 1,
+    ".bpk": 1,
+    ".txt": 1
+  },
+  "RailMoveDisappearStep.arc": {
+    ".bck": 2,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RailMoveDisappearStepBreak.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "RailMoveMiniPlanetObjA.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RailMoveMiniPlanetObjB.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RailMoveNormalLift.arc": {
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RailMoveWaterAreaPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RailMoveWaterObj.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "RailMoveWaterObjIndirect.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "RailPoint.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "RedBlueExStepA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RedBlueExStepB.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RedBlueExStepC.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RedBlueExStepD.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RedBlueExStepE.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RedBlueExStepF.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RedBlueTurnBlock.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RedBlueTurnBlockBase.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "RelayDrill2DPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RelayPlanetA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RelayPlanetB.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RepeatBlock.arc": {
+    ".banmt": 1,
+    ".bck": 8,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btk": 8,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RepeatBlockLavaBoxPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RepeatBlockLavaBoxPlanetBloom.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "RepeatBlockLavaBoxPlanetLow.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "RepeatBlockLavaBoxPlanetProminence.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "RepeatBlockLavaBoxPlanetProminenceBloom.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "RepeatTimerStageNormalStep.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RepeatTimerStageStepA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RepeatTimerStageStepB.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RestartObj.arc": {
+    ".banmt": 1,
+    ".bck": 4,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".btk": 1,
+    ".btp": 1,
+    ".txt": 1
+  },
+  "ReverseClipConveyerPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ReverseClipConveyerPlanetLow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "ReverseClipConveyorA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ReverseClipConveyorB.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ReverseClipConveyorC.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ReverseFlowSandMoveStep.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ReverseFlowSandPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ReverseGravity2DDossunPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ReverseGravity2DLiftPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".bva": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ReverseGravity2DRoofActionPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".bva": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ReverseGravity2DStartPlanetA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RingBeamer.arc": {
+    ".bck": 5,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "RingBeamerAreaObj.arc": {
+    ".bmd": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RisePictureBookPlanet.arc": {
+    ".bck": 3,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".kcl": 10,
+    ".pa": 10,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RoboRotateArmStep.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "Rock.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "RockBreak.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "RockBreakCage.arc": {
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".bva": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RockBreakCageBreak.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "RockBreakCageL.arc": {
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".bva": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RockBreakCageLBreak.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "RockCageS.arc": {
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".bva": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RockCageSBreak.arc": {
+    ".bck": 1,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "RockLuigi.arc": {
+    ".bdl": 1,
+    ".btp": 1,
+    ".txt": 1
+  },
+  "RockLuigiRollingRock.arc": {
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "RockMario.arc": {
+    ".bdl": 1,
+    ".btp": 1,
+    ".txt": 1
+  },
+  "RockMarioRollingRock.arc": {
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "RockMarioRollingRockBlur.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".bpk": 1,
+    ".txt": 1
+  },
+  "RockMarioRollingRockBreak.arc": {
+    ".bck": 2,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "RockReflector.arc": {
+    ".bck": 1,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RollingDrumPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RollingWater.arc": {
+    ".banmt": 1,
+    ".bck": 1,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "Rosetta.arc": {
+    ".banmt": 1,
+    ".bck": 12,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".brk": 5,
+    ".btk": 3,
+    ".btp": 13,
+    ".bva": 2,
+    ".txt": 1
+  },
+  "RosettaChair.arc": {
+    ".bck": 2,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RosettaReading.arc": {
+    ".banmt": 1,
+    ".bas": 1,
+    ".bck": 2,
+    ".bdl": 1,
+    ".btk": 2,
+    ".btp": 2,
+    ".canm": 2,
+    ".txt": 1
+  },
+  "RotateClimbRockTop.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RotateClimbRockUnder.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RotateCrossStep.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RotateFireBar2DRotateStep.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RotateFireBar2DRotateStepParts.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RotateHammerPressure.arc": {
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RotatePrismStepA.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RotatePrismStepB.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RotateSeesawTrampoline.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "RotateStepAthleticPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SamboHead.arc": {
+    ".banmt": 1,
+    ".bas": 5,
+    ".bck": 12,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".btk": 7,
+    ".txt": 1
+  },
+  "SandBird.arc": {
+    ".bcsv": 3,
+    ".txt": 1
+  },
+  "SandBirdPartsBlock.arc": {
+    ".bck": 5,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".csv~": 2,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SandBirdPartsCorner.arc": {
+    ".bck": 5,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".csv~": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SandBirdPartsCornerShadow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "SandBirdPartsHeadLeft.arc": {
+    ".bck": 6,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".brk": 4,
+    ".csv~": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SandBirdPartsHeadRight.arc": {
+    ".bck": 6,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".brk": 4,
+    ".csv~": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SandBirdPartsTail.arc": {
+    ".bck": 6,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".brk": 4,
+    ".csv~": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SandBirdPartsTailLeft.arc": {
+    ".bck": 6,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".brk": 4,
+    ".csv~": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SandBirdPartsTailRight.arc": {
+    ".bck": 6,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".brk": 4,
+    ".csv~": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "Sandy.arc": {
+    ".banmt": 1,
+    ".bck": 15,
+    ".bcsv": 9,
+    ".bdl": 1,
+    ".brk": 3,
+    ".btk": 1,
+    ".btp": 8,
+    ".bva": 14,
+    ".canm": 3,
+    ".dva": 1,
+    ".jpa": 3,
+    ".txt": 1
+  },
+  "SandyCactusBall.arc": {
+    ".banmt": 1,
+    ".bck": 1,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".btp": 1,
+    ".txt": 1
+  },
+  "SandyCactusBallBig.arc": {
+    ".banmt": 1,
+    ".bck": 1,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "SandyFlowSandAfterBattlePlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SandyFlowSandPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SandyHand.arc": {
+    ".banmt": 1,
+    ".bck": 17,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".brk": 2,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "SandyMini.arc": {
+    ".banmt": 1,
+    ".bck": 7,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".brk": 2,
+    ".btk": 1,
+    ".bva": 7,
+    ".txt": 1
+  },
+  "SandySandBall.arc": {
+    ".banmt": 1,
+    ".bck": 1,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "SaveIconBanner.arc": {
+    ".bti": 2,
+    ".txt": 1
+  },
+  "ScenarioSelectSky.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "ScoreAttackMan.arc": {
+    ".banmt": 1,
+    ".bck": 11,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "SeaGull.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "SearchBeamer.arc": {
+    ".bck": 5,
+    ".bdl": 1,
+    ".brk": 2,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SearchLightCone.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "SecretGate.arc": {
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ShadowVolumeCylinder.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "ShadowVolumeOval.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "ShadowVolumeSphere.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "Shellfish.arc": {
+    ".banmt": 1,
+    ".bck": 7,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ShimmerBoard.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "ShootingStar.arc": {
+    ".bdl": 1,
+    ".bpk": 1,
+    ".txt": 1
+  },
+  "SignBoard.arc": {
+    ".bck": 4,
+    ".bcsv": 9,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SkateHolePlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SkateHolePlanetIce.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SkyBeachCorals.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SkyBeachFlowers.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "SkyIslandDecorateParts.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "SkyIslandPartsA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 3,
+    "CollisionVersion": 1
+  },
+  "SkyIslandPartsB.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 3,
+    "CollisionVersion": 1
+  },
+  "SkyIslandPartsC.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SkyIslandPartsD.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 3,
+    "CollisionVersion": 1
+  },
+  "SkyIslandPartsE.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SkyIslandPartsF.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SkyIslandStepPartsA.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 2,
+    "CollisionVersion": 1
+  },
+  "SkyIslandStepPartsB.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 2,
+    "CollisionVersion": 1
+  },
+  "SkyIslandStepPartsC.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 2,
+    "CollisionVersion": 1
+  },
+  "SliderBranchZoneSlopeA.arc": {
+    ".bdl": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SliderBranchZoneSlopeB.arc": {
+    ".bdl": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SliderGoalSlopeA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SliderPole.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SliderSnowFrontWall.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SliderStartSlopeA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SmallStone.arc": {
+    ".banmt": 1,
+    ".bck": 3,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "Snakehead.arc": {
+    ".banmt": 1,
+    ".bas": 3,
+    ".bck": 8,
+    ".bdl": 1,
+    ".btk": 8,
+    ".txt": 1
+  },
+  "SnakeheadShadow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "SnakeheadSmall.arc": {
+    ".banmt": 1,
+    ".bas": 2,
+    ".bck": 8,
+    ".bdl": 1,
+    ".btk": 7,
+    ".txt": 1
+  },
+  "SnakeheadSmallShadow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "SnowBall.arc": {
+    ".bck": 3,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "SnowBlockTicoSearchPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SnowDiskPlanet.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SnowDollKoopa.arc": {
+    ".bck": 1,
+    ".bcsv": 7,
+    ".bdl": 1,
+    ".bva": 2,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SnowDollKoopaBreak.arc": {
+    ".bck": 1,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".bva": 1,
+    ".txt": 1
+  },
+  "SnowDollKoopaBreakDust.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "SnowDollKoopaPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SnowDollKuribo.arc": {
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SnowDollKuriboBreak.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".bva": 1,
+    ".txt": 1
+  },
+  "SnowDollKuriboBreakDust.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "SnowMoundL.arc": {
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SnowMoundLBreak.arc": {
+    ".bck": 1,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "SnowMoundLBreakDust.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "SnowStep.arc": {
+    ".bck": 3,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SoundSyncBlockA.arc": {
+    ".bdl": 1,
+    ".brk": 4,
+    ".btk": 4,
+    ".bva": 4,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SoundSyncBlockB.arc": {
+    ".bdl": 1,
+    ".brk": 4,
+    ".btk": 4,
+    ".bva": 4,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SpaceCannonLauncher.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SpaceCannonLauncherBreak.arc": {
+    ".bck": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "SpaceInner.arc": {
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "SpaceMine.arc": {
+    ".banmt": 1,
+    ".bck": 3,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "SpaceShipStep.arc": {
+    ".bck": 5,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SphereAir.arc": {
+    ".bdl": 1,
+    ".brk": 3,
+    ".txt": 1
+  },
+  "SphereCloudMoveRotateStepA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SphereCloudMoveRotateStepB.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SpinCloudBlock.arc": {
+    ".bck": 6,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".btp": 1,
+    ".bva": 5,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SpinCloudBlockShadow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "SpinDriver.arc": {
+    ".banmt": 1,
+    ".bck": 3,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".bpk": 2,
+    ".txt": 1
+  },
+  "SpinDriverEarthenPipePlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SpinDriverPath.arc": {
+    ".bti": 4,
+    ".txt": 1
+  },
+  "SpinDriverShadow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "SpinLeverSwitch.arc": {
+    ".bck": 2,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".brk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SpinTico.arc": {
+    ".bas": 2,
+    ".bck": 3,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".bva": 2,
+    ".txt": 1
+  },
+  "SpotMarkLight.arc": {
+    ".bdl": 1,
+    ".brk": 3,
+    ".txt": 1
+  },
+  "StaffRollDecorateComet.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btk": 2,
+    ".txt": 1
+  },
+  "StaffRollDecorateFaceShip.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btp": 1,
+    ".txt": 1
+  },
+  "StaffRollSky.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".bva": 1,
+    ".txt": 1
+  },
+  "StarCreekPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "StarCreekPlanetIce.arc": {
+    ".bdl": 1,
+    ".brk": 2,
+    ".btk": 2,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "StarCreekPlanetWater.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "StarListBoard.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".bpk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "StarPiece.arc": {
+    ".banmt": 1,
+    ".bck": 1,
+    ".bdl": 1,
+    ".bpk": 1,
+    ".btk": 3,
+    ".txt": 1
+  },
+  "StarPieceCluster.arc": {
+    ".bck": 1,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "StarPieceClusterRock.arc": {
+    ".bck": 1,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "StarPieceDummy.arc": {
+    ".bck": 2,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".bva": 1,
+    ".txt": 1
+  },
+  "StarPieceFlower.arc": {
+    ".bck": 7,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "StarPointerBlur.arc": {
+    ".bti": 1,
+    ".txt": 1
+  },
+  "StinkBugParent.arc": {
+    ".banmt": 1,
+    ".bas": 4,
+    ".bck": 15,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".brk": 3,
+    ".bva": 3,
+    ".canm": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "StinkBugSmall.arc": {
+    ".banmt": 1,
+    ".bas": 2,
+    ".bck": 12,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".brk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "StoryBook.arc": {
+    ".bck": 5,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".bva": 5,
+    ".txt": 1
+  },
+  "StoryBookOpeningPlanet.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "StoryBookShadow.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "StoryBookTicoMeetPlanet.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "StrayTico.arc": {
+    ".banmt": 1,
+    ".bck": 4,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "StringSpider.arc": {
+    ".banmt": 1,
+    ".bas": 1,
+    ".bck": 13,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "StringSpiderString.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "StrongBlock.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "StrongBlock2D.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "StumpObj.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SummerSky.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "Sun.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "SuperSpinDriver.arc": {
+    ".banmt": 1,
+    ".bck": 5,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".brk": 4,
+    ".btp": 1,
+    ".txt": 1
+  },
+  "SuperSpinDriverShadow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "SupportFlushPoint.arc": {
+    ".banmt": 1,
+    ".bck": 4,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "SupportTico.arc": {
+    ".banmt": 1,
+    ".bck": 16,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "SurfingRaceMainGate.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SwitchAppearAncientStep.arc": {
+    ".bck": 1,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SwitchGravityBombHeiPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SwitchingMoveBlockMainPlanetA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SwitchingMoveBlockStartPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SwitchingMoveBuzzAreaBlockBlue.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SwitchingMoveBuzzAreaBlockRed.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SwitchingMoveStairsAreaBlockBlue.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SwitchingMoveStairsAreaBlockRed.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SwitchingMoveStartAreaBlockBlue.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SwitchingMoveStartAreaBlockRed.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SwitchingMoveWallJumpAreaBlockBlue.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SwitchingMoveWallJumpAreaBlockRed.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "SystemDataTable.arc": {
+    ".bcsv": 7,
+    ".txt": 1
+  },
+  "TakoBarrelA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "Takobo.arc": {
+    ".banmt": 1,
+    ".bas": 1,
+    ".bck": 12,
+    ".bcsv": 7,
+    ".bdl": 1,
+    ".brk": 6,
+    ".txt": 1
+  },
+  "TakoHei.arc": {
+    ".banmt": 1,
+    ".bas": 3,
+    ".bck": 18,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".btp": 6,
+    ".txt": 1
+  },
+  "TakoHeiInk.arc": {
+    ".bck": 1,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "TakoSho.arc": {
+    ".banmt": 1,
+    ".bas": 3,
+    ".bck": 14,
+    ".bcsv": 7,
+    ".bdl": 1,
+    ".brk": 9,
+    ".txt": 1
+  },
+  "Tamakoro.arc": {
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".brk": 2,
+    ".bva": 1,
+    ".txt": 1
+  },
+  "TamakoroFlipPanelAppearStep.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "TamakoroFlipPanelPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "TamakoroGarigariCylinderPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "TamakoroGarigariFallStepA.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "TamakoroGarigariFallStepB.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "TamakoroGarigariFallStepC.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "TamakoroGarigariFallStepD.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "TamakoroGarigariFallStepE.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "TamakoroGoalRelayStep.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "TamakoroHoleBombHeiPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "TamakoroKuriboLift.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "TamakoroPlanetStartPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "TamakoroPolePlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "TamakoroRailToSearchWanwan.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "TamakoroSearchWanwanAppearStep.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "TamakoroVsSearchWanwanPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "Terebo.arc": {
+    ".banmt": 1,
+    ".bck": 5,
+    ".bcsv": 7,
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "Teresa.arc": {
+    ".banmt": 1,
+    ".bck": 17,
+    ".bcsv": 9,
+    ".bdl": 1,
+    ".brk": 3,
+    ".btp": 3,
+    ".txt": 1
+  },
+  "TeresaAtomic.arc": {
+    ".banmt": 1,
+    ".bck": 8,
+    ".bcsv": 12,
+    ".bdl": 1,
+    ".btp": 2,
+    ".txt": 1
+  },
+  "TeresaAtomicPosition.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "TeresaLuigi.arc": {
+    ".bck": 11,
+    ".bdl": 1,
+    ".brk": 1,
+    ".btp": 9,
+    ".txt": 1
+  },
+  "TeresaMansionCandleStand.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "TeresaMario.arc": {
+    ".bas": 2,
+    ".bck": 11,
+    ".bdl": 1,
+    ".brk": 1,
+    ".btp": 9,
+    ".txt": 1
+  },
+  "TeresaPicture.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "TeresaRoomGlaringLight.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "TeresaWater.arc": {
+    ".banmt": 1,
+    ".bck": 3,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "ThreeSwingByPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "Tico.arc": {
+    ".banmt": 1,
+    ".bas": 2,
+    ".bck": 25,
+    ".bcsv": 8,
+    ".bdl": 1,
+    ".brk": 3,
+    ".bva": 1,
+    ".canm": 4,
+    ".txt": 1
+  },
+  "TicoBaby.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "TicoBabyAnim.arc": {
+    ".banmt": 2,
+    ".bck": 15,
+    ".bcsv": 4,
+    ".bva": 9,
+    ".canm": 5,
+    ".txt": 1
+  },
+  "TicoBabyAnimMarioFaceShipGalaxy2.arc": {
+    ".banmt": 1,
+    ".bck": 1,
+    ".bcsv": 2,
+    ".bva": 1,
+    ".txt": 1
+  },
+  "TicoBabyAnimVsKoopaLv1Galaxy.arc": {
+    ".banmt": 2,
+    ".bck": 2,
+    ".bcsv": 2,
+    ".txt": 1
+  },
+  "TicoBabyAnimVsKoopaLv3Galaxy.arc": {
+    ".banmt": 2,
+    ".bck": 5,
+    ".bcsv": 2,
+    ".txt": 1
+  },
+  "TicoBig.arc": {
+    ".banmt": 1,
+    ".bck": 4,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "TicoBigLow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "TicoBigMiddle.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "TicoCoin.arc": {
+    ".banmt": 1,
+    ".bck": 3,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".bva": 2,
+    ".txt": 1
+  },
+  "TicoFatCoin.arc": {
+    ".banmt": 1,
+    ".bck": 15,
+    ".bcsv": 7,
+    ".bdl": 1,
+    ".brk": 4,
+    ".bva": 9,
+    ".txt": 1
+  },
+  "TicoFatGoodsCoin.arc": {
+    ".bck": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "TicoFatGoodsStarPiece.arc": {
+    ".bck": 2,
+    ".bdl": 1,
+    ".bpk": 1,
+    ".txt": 1
+  },
+  "TicoFatStarPiece.arc": {
+    ".banmt": 1,
+    ".bas": 2,
+    ".bck": 22,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".brk": 4,
+    ".bva": 6,
+    ".txt": 1
+  },
+  "TicoLow.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "TicoMiddle.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "TicoShop.arc": {
+    ".banmt": 1,
+    ".bas": 2,
+    ".bck": 23,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".brk": 3,
+    ".bva": 6,
+    ".txt": 1
+  },
+  "TicoShopDice.arc": {
+    ".banmt": 1,
+    ".bas": 2,
+    ".bck": 23,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".brk": 3,
+    ".bva": 6,
+    ".txt": 1
+  },
+  "TicoShopDiceGoodsDiceL.arc": {
+    ".bck": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "TicoShopDiceGoodsDiceR.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "TicoShopGoodsLifeUp.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "TicoShopGoodsOneUp.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "TimeAttackClock.arc": {
+    ".bck": 2,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "TimerGravityChangeDrillRoom.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "TimerGravityChangeDrillRoomWall.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btk": 2,
+    ".bva": 2,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "TimeStopScreenEffect.arc": {
+    ".bdl": 1,
+    ".brk": 2,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "Togepin.arc": {
+    ".bck": 6,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".brk": 5,
+    ".btp": 3,
+    ".txt": 1
+  },
+  "TogepinHole.arc": {
+    ".bck": 3,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btk": 3,
+    ".txt": 1
+  },
+  "Togezo.arc": {
+    ".banmt": 1,
+    ".bck": 15,
+    ".bcsv": 10,
+    ".bdl": 1,
+    ".btp": 2,
+    ".bva": 4,
+    ".txt": 1
+  },
+  "TogezoPaipo.arc": {
+    ".banmt": 1,
+    ".bck": 8,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".bva": 3,
+    ".txt": 1
+  },
+  "Tongari.arc": {
+    ".banmt": 1,
+    ".bck": 2,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".btp": 2,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "Trapeze.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".bti": 1,
+    ".txt": 1
+  },
+  "TreasureBox.arc": {
+    ".bck": 1,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "TreasureSpot.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "TriangleTowerRailMoveStepSpring.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "TriangleTowerRotateStep.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "TriangleTowerRotateStepSpring.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "TriangleTowerSpringPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "TrickRabbit.arc": {
+    ".banmt": 1,
+    ".bas": 3,
+    ".bck": 34,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".bti": 1,
+    ".btp": 15,
+    ".txt": 1
+  },
+  "TropicalCloudTowerPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "TropicalCloudTowerPlanetBloom.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "Tsukidashikun.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".bva": 4,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "TubeColorsA.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "TubeColorsB.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "TubeSliderCourceSnow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "TubeSliderCourse.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "TubeSliderCourseLow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "TubeSliderDamageObj.arc": {
+    ".bck": 4,
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "TubeSliderGoalPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "TubeSliderStartPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "TwisterSanSlim.arc": {
+    ".bck": 1,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".brk": 2,
+    ".btk": 1,
+    ".csv#": 1,
+    ".txt": 1
+  },
+  "TwoLegs.arc": {
+    ".banmt": 1,
+    ".bck": 17,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".bva": 4,
+    ".canm": 2,
+    ".txt": 1
+  },
+  "TwoLegsBreak.arc": {
+    ".bck": 1,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "TwoLegsPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "UFOKinoko.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "UFOKinokoLow.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "UFOShapePassThroughPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "UFOShapePassThroughPlanetParts.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "UFOShapePlanetWanwanRoute.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "Unbaba.arc": {
+    ".banmt": 1,
+    ".bck": 5,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".brk": 3,
+    ".btk": 1,
+    ".btp": 1,
+    ".txt": 1
+  },
+  "UnbabaSlim.arc": {
+    ".banmt": 1,
+    ".bck": 4,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "UnderGroundDangeonPlanetA.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "UnderGroundDangeonPlanetB.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "UniverseAir.arc": {
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "Unizo.arc": {
+    ".banmt": 1,
+    ".bck": 3,
+    ".bdl": 1,
+    ".btp": 3,
+    ".txt": 1
+  },
+  "UnizoBreak.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "UnizoLand.arc": {
+    ".bck": 3,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btp": 3,
+    ".txt": 2
+  },
+  "UnizoLandBreak.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "VolumeBox.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "VolumeCylinder.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "VolumeSphere.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "VolumeSphereLow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "VR_GrandGalaxy.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "VRDarkSpace.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "VRSandwichSun.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "VsBoomerangBrosPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "VsBossJugemAir.arc": {
+    ".bdl": 1,
+    ".brk": 2,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "VsKingTossinPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "VsKoopaLv3Sky.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "VsOtaRockTankIcePlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "VsOtaRockTankIcePlanetFence.arc": {
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "VsOtaRockTankIcePlanetIce.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "VsOtaRockTankIcePlanetLava.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "WanwanConveyPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WanwanConveySeesaw.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WanwanEscapePlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WanwanEscapePlanetBloom.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "WanwanEscapePlanetParts.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WanwanGoal.arc": {
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "WanwanLiftUpStepA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WanwanObstacleFloaterA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WanwanObstacleFloaterB.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WanwanObstacleFloaterC.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WanwanObstaclePile.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WanwanRedBluePanelPlanet.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WanwanRolling.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "WanwanRollingBreak.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "WanwanRollingGold.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "WanwanRollingGoldBreak.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "WanwanRollingMini.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "WanwanRollingPartsA.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "WanwanSearch.arc": {
+    ".bck": 4,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "WanwanSearchBreak.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "WarpPod.arc": {
+    ".bck": 2,
+    ".bdl": 1,
+    ".brk": 2,
+    ".bti": 2,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WaterAcrossSpherePlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WaterBullet.arc": {
+    ".banmt": 1,
+    ".bck": 3,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "WaterCameraFilter.arc": {
+    ".bcsv": 1,
+    ".bti": 1,
+    ".txt": 1
+  },
+  "WaterCaveWall.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WaterColumn.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "WaterFortressConveyerA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WaterFortressConveyerB.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WaterFortressConveyerC.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WaterFortressConveyerD.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WaterFortressDoor.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WaterFortressPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WaterFortressRotateStepA.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WaterFortressRotateStepB.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WaterFortressRotateStepD.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WaterFortressTopFence.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "Watermelon.arc": {
+    ".banmt": 1,
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "WaterPlant.arc": {
+    ".bti": 4,
+    ".txt": 1
+  },
+  "WaterPressure.arc": {
+    ".banmt": 1,
+    ".bck": 6,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "WaterSphereCoralPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WaterSphereCoralPlanetLow.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "WaterWave.arc": {
+    ".bti": 7,
+    ".txt": 1
+  },
+  "WhiteOutPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WhiteSnowTree.arc": {
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WiiMessageImage.arc": {
+    ".bin": 2,
+    ".txt": 1
+  },
+  "WingBlock.arc": {
+    ".bck": 2,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".brk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WipeModelCloud.arc": {
+    ".bck": 6,
+    ".bdl": 1,
+    ".brk": 6,
+    ".btk": 6,
+    ".txt": 1
+  },
+  "WipeModelGalaxy.arc": {
+    ".bck": 6,
+    ".bdl": 1,
+    ".brk": 6,
+    ".txt": 1
+  },
+  "WipeModelSpace.arc": {
+    ".bck": 6,
+    ".bdl": 1,
+    ".brk": 6,
+    ".txt": 1
+  },
+  "WireCoverCage.arc": {
+    ".bdl": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WoodBox.arc": {
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".bva": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WoodBoxBreak.arc": {
+    ".bck": 1,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".brk": 1,
+    ".txt": 1
+  },
+  "WoodCircleCutPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WoodDrumPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WoodDrumRailLiftA.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WoodLogBridge.arc": {
+    ".bcsv": 3,
+    ".bti": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WoodLogBridgeParts.arc": {
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WoodLogBridgeShortParts.arc": {
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WoodWallDownFall.arc": {
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WoodWallDownRotate.arc": {
+    ".bcsv": 3,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WoodyDecoratePartsA.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "WoodyDecoratePartsB.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "WorldMap01.arc": {
+    ".bcsv": 5,
+    ".txt": 1
+  },
+  "WorldMap01Model.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "WorldMap01Sky.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "WorldMap02.arc": {
+    ".bcsv": 6,
+    ".txt": 1
+  },
+  "WorldMap02Model.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "WorldMap02Sky.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "WorldMap03.arc": {
+    ".bcsv": 6,
+    ".txt": 1
+  },
+  "WorldMap03Model.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "WorldMap03Sky.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "WorldMap04.arc": {
+    ".bcsv": 4,
+    ".txt": 1
+  },
+  "WorldMap04Model.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "WorldMap04Sky.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "WorldMap05.arc": {
+    ".bcsv": 4,
+    ".txt": 1
+  },
+  "WorldMap05Model.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "WorldMap05Sky.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "WorldMap06.arc": {
+    ".bcsv": 4,
+    ".txt": 1
+  },
+  "WorldMap06Model.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "WorldMap06Sky.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "WorldMap07.arc": {
+    ".bcsv": 4,
+    ".txt": 1
+  },
+  "WorldMap07Model.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "WorldMap07Sky.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "WorldMap08.arc": {
+    ".bcsv": 6,
+    ".txt": 1
+  },
+  "WorldMapAccessPanel.arc": {
+    ".bck": 5,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".brk": 3,
+    ".bva": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "WorldMapCamera.arc": {
+    ".bcam": 1,
+    ".txt": 1
+  },
+  "YCaptureTarget.arc": {
+    ".banmt": 1,
+    ".bck": 4,
+    ".bcsv": 4,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "YellowChip.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "Yoshi.arc": {
+    ".banmt": 1,
+    ".bck": 157,
+    ".bcsv": 6,
+    ".bdl": 1,
+    ".brk": 13,
+    ".btk": 3,
+    ".btp": 7,
+    ".bva": 16,
+    ".canm": 1,
+    ".txt": 1
+  },
+  "YoshiArrow.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "YoshiArrowShadow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "YoshiBalloon.arc": {
+    ".banmt": 1,
+    ".bck": 6,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".bva": 2,
+    ".txt": 1
+  },
+  "YoshiBoxBreakPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "YoshiCaptureClimbPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "YoshiCaptureClimbPlanetLow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "YoshiCaptureRelayPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "YoshiCaughtPlanet.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "YoshiClimbMountainPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 2,
+    ".pa": 2,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "YoshiClipGhostRoomPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "YoshiClipGhostRoomPlanetClipParts.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "YoshiEgg.arc": {
+    ".banmt": 1,
+    ".bck": 7,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "YoshiEggBreak.arc": {
+    ".banmt": 1,
+    ".bck": 6,
+    ".bdl": 1,
+    ".brk": 5,
+    ".txt": 1
+  },
+  "YoshiEggCapsuleCage.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "YoshiEggStep.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "YoshiFruit.arc": {
+    ".bck": 7,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "YoshiFruitBig.arc": {
+    ".banmt": 1,
+    ".bck": 9,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "YoshiFruitStem.arc": {
+    ".bck": 2,
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "YoshiFruitStemBig.arc": {
+    ".banmt": 1,
+    ".bck": 4,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".brk": 2,
+    ".txt": 1
+  },
+  "YoshiHandL.arc": {
+    ".bdl": 1,
+    ".brk": 13,
+    ".txt": 1
+  },
+  "YoshiHandR.arc": {
+    ".bdl": 1,
+    ".brk": 13,
+    ".txt": 1
+  },
+  "YoshiHomeLift.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "YoshiKillerThrowPlanet.arc": {
+    ".bdl": 1,
+    ".brk": 1,
+    ".btk": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "YoshiLightAreaModel.arc": {
+    ".bdl": 1,
+    ".btk": 1,
+    ".txt": 1
+  },
+  "YoshiNest.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "YoshiPullStepPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "YoshiShadow.arc": {
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "YoshiTongue.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "Yukkina.arc": {
+    ".bck": 9,
+    ".bcsv": 9,
+    ".bdl": 1,
+    ".bva": 8,
+    ".canm": 2,
+    ".txt": 1
+  },
+  "YukkinaBodyPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "YukkinaGroundSnow.arc": {
+    ".bck": 2,
+    ".bcsv": 5,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "YukkinaGroundSnowBreak.arc": {
+    ".bck": 1,
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "YukkinaRellayPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "YukkinaTree.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "YukkinaTreeBreak.arc": {
+    ".bck": 1,
+    ".bdl": 1,
+    ".txt": 1
+  },
+  "ZeroGravityRoomPlanet.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ZeroGravityRoomRotateStep.arc": {
+    ".bcsv": 1,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ZigZagCrushBlockA.arc": {
+    ".bcsv": 2,
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  },
+  "ZigZagCrushBlockB.arc": {
+    ".bdl": 1,
+    ".kcl": 1,
+    ".pa": 1,
+    ".txt": 1,
+    "CollisionVersion": 1
+  }
+}
